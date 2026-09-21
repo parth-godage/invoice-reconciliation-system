@@ -1,0 +1,4018 @@
+{
+  "purchase_orders": [
+    {
+      "po_number": "PO-0001",
+      "supplier": "PrimeBuild Materials",
+      "vendor_address": "33 Civil Lines, Nagpur, Maharashtra 440001",
+      "po_date": "2026-08-04",
+      "line_items": [
+        {
+          "description": "USB-C Docking Station",
+          "quantity": 3,
+          "unit_price": 6326.92,
+          "line_total": 18980.76
+        },
+        {
+          "description": "Document Shredder",
+          "quantity": 11,
+          "unit_price": 7461.69,
+          "line_total": 82078.59
+        }
+      ],
+      "subtotal": 101059.35,
+      "tax": 18190.68,
+      "total": 119250.03,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0002",
+      "supplier": "GreenGrid Solutions Pvt Ltd",
+      "vendor_address": "7 Salt Lake Sector V, Kolkata, West Bengal 700091",
+      "po_date": "2026-02-03",
+      "line_items": [
+        {
+          "description": "Power Backup UPS",
+          "quantity": 3,
+          "unit_price": 13750.67,
+          "line_total": 41252.01
+        },
+        {
+          "description": "Wireless Keyboard",
+          "quantity": 3,
+          "unit_price": 1362.55,
+          "line_total": 4087.65
+        },
+        {
+          "description": "27-inch Monitor",
+          "quantity": 11,
+          "unit_price": 16781.62,
+          "line_total": 184597.82
+        },
+        {
+          "description": "Thermal Label Roll",
+          "quantity": 5,
+          "unit_price": 819.34,
+          "line_total": 4096.7
+        },
+        {
+          "description": "External SSD 1TB",
+          "quantity": 4,
+          "unit_price": 6849.76,
+          "line_total": 27399.04
+        }
+      ],
+      "subtotal": 261433.22,
+      "tax": 47057.98,
+      "total": 308491.2,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0003",
+      "supplier": "MetroMart Business Supplies",
+      "vendor_address": "28 Vashi Sector 17, Navi Mumbai, Maharashtra 400703",
+      "po_date": "2026-02-25",
+      "line_items": [
+        {
+          "description": "Power Backup UPS",
+          "quantity": 8,
+          "unit_price": 11895.09,
+          "line_total": 95160.72
+        },
+        {
+          "description": "Filing Cabinet",
+          "quantity": 12,
+          "unit_price": 7071.49,
+          "line_total": 84857.88
+        }
+      ],
+      "subtotal": 180018.6,
+      "tax": 32403.35,
+      "total": 212421.95,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0004",
+      "supplier": "MetroMart Business Supplies",
+      "vendor_address": "28 Vashi Sector 17, Navi Mumbai, Maharashtra 400703",
+      "po_date": "2026-04-16",
+      "line_items": [
+        {
+          "description": "Ethernet Cable Pack",
+          "quantity": 5,
+          "unit_price": 1685.44,
+          "line_total": 8427.2
+        },
+        {
+          "description": "27-inch Monitor",
+          "quantity": 7,
+          "unit_price": 15549.77,
+          "line_total": 108848.39
+        },
+        {
+          "description": "Wireless Keyboard",
+          "quantity": 7,
+          "unit_price": 1542.84,
+          "line_total": 10799.88
+        },
+        {
+          "description": "External SSD 1TB",
+          "quantity": 2,
+          "unit_price": 6901.75,
+          "line_total": 13803.5
+        },
+        {
+          "description": "Office Chair",
+          "quantity": 10,
+          "unit_price": 8660.51,
+          "line_total": 86605.1
+        }
+      ],
+      "subtotal": 228484.07,
+      "tax": 41127.13,
+      "total": 269611.2,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0005",
+      "supplier": "BluePeak Technologies Pvt Ltd",
+      "vendor_address": "44 Hinjewadi Phase 1, Pune, Maharashtra 411057",
+      "po_date": "2026-04-26",
+      "line_items": [
+        {
+          "description": "Conference Webcam",
+          "quantity": 3,
+          "unit_price": 6809.69,
+          "line_total": 20429.07
+        },
+        {
+          "description": "Desk Lamp",
+          "quantity": 7,
+          "unit_price": 1269.02,
+          "line_total": 8883.14
+        },
+        {
+          "description": "Ethernet Cable Pack",
+          "quantity": 7,
+          "unit_price": 1534.46,
+          "line_total": 10741.22
+        }
+      ],
+      "subtotal": 40053.43,
+      "tax": 7209.62,
+      "total": 47263.05,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0006",
+      "supplier": "Vertex Cloud Services",
+      "vendor_address": "22 Hitech City, Hyderabad, Telangana 500081",
+      "po_date": "2026-01-09",
+      "line_items": [
+        {
+          "description": "Document Shredder",
+          "quantity": 8,
+          "unit_price": 7637.21,
+          "line_total": 61097.68
+        },
+        {
+          "description": "27-inch Monitor",
+          "quantity": 6,
+          "unit_price": 15676.94,
+          "line_total": 94061.64
+        }
+      ],
+      "subtotal": 155159.32,
+      "tax": 27928.68,
+      "total": 183088.0,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0007",
+      "supplier": "Orbit Data Systems Pvt Ltd",
+      "vendor_address": "5 Anna Salai, Chennai, Tamil Nadu 600002",
+      "po_date": "2026-07-02",
+      "line_items": [
+        {
+          "description": "Laser Printer",
+          "quantity": 2,
+          "unit_price": 18065.8,
+          "line_total": 36131.6
+        },
+        {
+          "description": "USB-C Docking Station",
+          "quantity": 1,
+          "unit_price": 6458.34,
+          "line_total": 6458.34
+        },
+        {
+          "description": "Barcode Scanner",
+          "quantity": 1,
+          "unit_price": 6119.79,
+          "line_total": 6119.79
+        },
+        {
+          "description": "A4 Copier Paper Box",
+          "quantity": 12,
+          "unit_price": 3708.54,
+          "line_total": 44502.48
+        },
+        {
+          "description": "Whiteboard",
+          "quantity": 8,
+          "unit_price": 5321.71,
+          "line_total": 42573.68
+        }
+      ],
+      "subtotal": 135785.89,
+      "tax": 24441.46,
+      "total": 160227.35,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0008",
+      "supplier": "Crestline Electronics Pvt Ltd",
+      "vendor_address": "16 Whitefield Main Road, Bengaluru, Karnataka 560066",
+      "po_date": "2026-02-26",
+      "line_items": [
+        {
+          "description": "Laptop Stand",
+          "quantity": 8,
+          "unit_price": 2509.08,
+          "line_total": 20072.64
+        },
+        {
+          "description": "Wireless Keyboard",
+          "quantity": 4,
+          "unit_price": 1386.42,
+          "line_total": 5545.68
+        },
+        {
+          "description": "Barcode Scanner",
+          "quantity": 9,
+          "unit_price": 6069.83,
+          "line_total": 54628.47
+        },
+        {
+          "description": "27-inch Monitor",
+          "quantity": 12,
+          "unit_price": 17019.46,
+          "line_total": 204233.52
+        }
+      ],
+      "subtotal": 284480.31,
+      "tax": 51206.46,
+      "total": 335686.77,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0009",
+      "supplier": "Orbit Data Systems Pvt Ltd",
+      "vendor_address": "5 Anna Salai, Chennai, Tamil Nadu 600002",
+      "po_date": "2026-04-15",
+      "line_items": [
+        {
+          "description": "Thermal Label Roll",
+          "quantity": 2,
+          "unit_price": 861.8,
+          "line_total": 1723.6
+        },
+        {
+          "description": "USB-C Docking Station",
+          "quantity": 10,
+          "unit_price": 6440.37,
+          "line_total": 64403.7
+        },
+        {
+          "description": "Filing Cabinet",
+          "quantity": 5,
+          "unit_price": 6718.92,
+          "line_total": 33594.6
+        },
+        {
+          "description": "Office Chair",
+          "quantity": 9,
+          "unit_price": 9766.56,
+          "line_total": 87899.04
+        }
+      ],
+      "subtotal": 187620.94,
+      "tax": 33771.77,
+      "total": 221392.71,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0010",
+      "supplier": "Crestline Electronics Pvt Ltd",
+      "vendor_address": "16 Whitefield Main Road, Bengaluru, Karnataka 560066",
+      "po_date": "2026-04-14",
+      "line_items": [
+        {
+          "description": "A4 Copier Paper Box",
+          "quantity": 8,
+          "unit_price": 3809.54,
+          "line_total": 30476.32
+        },
+        {
+          "description": "Network Switch 24-Port",
+          "quantity": 9,
+          "unit_price": 11847.11,
+          "line_total": 106623.99
+        },
+        {
+          "description": "Barcode Scanner",
+          "quantity": 10,
+          "unit_price": 6229.16,
+          "line_total": 62291.6
+        }
+      ],
+      "subtotal": 199391.91,
+      "tax": 35890.54,
+      "total": 235282.45,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0011",
+      "supplier": "Crestline Electronics Pvt Ltd",
+      "vendor_address": "16 Whitefield Main Road, Bengaluru, Karnataka 560066",
+      "po_date": "2026-02-19",
+      "line_items": [
+        {
+          "description": "A4 Copier Paper Box",
+          "quantity": 7,
+          "unit_price": 3618.48,
+          "line_total": 25329.36
+        },
+        {
+          "description": "Laser Printer",
+          "quantity": 8,
+          "unit_price": 18110.7,
+          "line_total": 144885.6
+        },
+        {
+          "description": "Network Switch 24-Port",
+          "quantity": 5,
+          "unit_price": 10547.99,
+          "line_total": 52739.95
+        },
+        {
+          "description": "USB-C Docking Station",
+          "quantity": 2,
+          "unit_price": 5883.93,
+          "line_total": 11767.86
+        },
+        {
+          "description": "Thermal Label Roll",
+          "quantity": 7,
+          "unit_price": 785.9,
+          "line_total": 5501.3
+        }
+      ],
+      "subtotal": 240224.07,
+      "tax": 43240.33,
+      "total": 283464.4,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0012",
+      "supplier": "Orbit Data Systems Pvt Ltd",
+      "vendor_address": "5 Anna Salai, Chennai, Tamil Nadu 600002",
+      "po_date": "2026-01-10",
+      "line_items": [
+        {
+          "description": "Laser Printer",
+          "quantity": 11,
+          "unit_price": 17668.78,
+          "line_total": 194356.58
+        },
+        {
+          "description": "Network Switch 24-Port",
+          "quantity": 4,
+          "unit_price": 11526.74,
+          "line_total": 46106.96
+        },
+        {
+          "description": "USB-C Docking Station",
+          "quantity": 9,
+          "unit_price": 5987.45,
+          "line_total": 53887.05
+        },
+        {
+          "description": "Laptop Stand",
+          "quantity": 6,
+          "unit_price": 2330.58,
+          "line_total": 13983.48
+        }
+      ],
+      "subtotal": 308334.07,
+      "tax": 55500.13,
+      "total": 363834.2,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0013",
+      "supplier": "Sunrise Packaging Industries",
+      "vendor_address": "91 Bhosari MIDC, Pune, Maharashtra 411026",
+      "po_date": "2026-07-20",
+      "line_items": [
+        {
+          "description": "Desk Lamp",
+          "quantity": 1,
+          "unit_price": 1341.53,
+          "line_total": 1341.53
+        },
+        {
+          "description": "Power Backup UPS",
+          "quantity": 9,
+          "unit_price": 12093.38,
+          "line_total": 108840.42
+        },
+        {
+          "description": "Wireless Keyboard",
+          "quantity": 12,
+          "unit_price": 1404.23,
+          "line_total": 16850.76
+        }
+      ],
+      "subtotal": 127032.71,
+      "tax": 22865.89,
+      "total": 149898.6,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0014",
+      "supplier": "Orbit Data Systems Pvt Ltd",
+      "vendor_address": "5 Anna Salai, Chennai, Tamil Nadu 600002",
+      "po_date": "2026-01-08",
+      "line_items": [
+        {
+          "description": "Network Switch 24-Port",
+          "quantity": 8,
+          "unit_price": 11659.45,
+          "line_total": 93275.6
+        },
+        {
+          "description": "Laptop Stand",
+          "quantity": 3,
+          "unit_price": 2365.13,
+          "line_total": 7095.39
+        },
+        {
+          "description": "Conference Webcam",
+          "quantity": 7,
+          "unit_price": 7385.88,
+          "line_total": 51701.16
+        },
+        {
+          "description": "Wireless Keyboard",
+          "quantity": 1,
+          "unit_price": 1563.86,
+          "line_total": 1563.86
+        }
+      ],
+      "subtotal": 153636.01,
+      "tax": 27654.48,
+      "total": 181290.49,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0015",
+      "supplier": "PrimeBuild Materials",
+      "vendor_address": "33 Civil Lines, Nagpur, Maharashtra 440001",
+      "po_date": "2026-04-22",
+      "line_items": [
+        {
+          "description": "Filing Cabinet",
+          "quantity": 6,
+          "unit_price": 7048.13,
+          "line_total": 42288.78
+        },
+        {
+          "description": "Wireless Keyboard",
+          "quantity": 11,
+          "unit_price": 1510.5,
+          "line_total": 16615.5
+        },
+        {
+          "description": "HDMI Cable Pack",
+          "quantity": 9,
+          "unit_price": 1991.27,
+          "line_total": 17921.43
+        }
+      ],
+      "subtotal": 76825.71,
+      "tax": 13828.63,
+      "total": 90654.34,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0016",
+      "supplier": "BluePeak Technologies Pvt Ltd",
+      "vendor_address": "44 Hinjewadi Phase 1, Pune, Maharashtra 411057",
+      "po_date": "2026-05-27",
+      "line_items": [
+        {
+          "description": "Office Chair",
+          "quantity": 8,
+          "unit_price": 8566.14,
+          "line_total": 68529.12
+        },
+        {
+          "description": "Whiteboard",
+          "quantity": 5,
+          "unit_price": 5026.75,
+          "line_total": 25133.75
+        },
+        {
+          "description": "Barcode Scanner",
+          "quantity": 10,
+          "unit_price": 5841.99,
+          "line_total": 58419.9
+        },
+        {
+          "description": "Laptop Stand",
+          "quantity": 10,
+          "unit_price": 2517.76,
+          "line_total": 25177.6
+        }
+      ],
+      "subtotal": 177260.37,
+      "tax": 31906.87,
+      "total": 209167.24,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0017",
+      "supplier": "Vertex Cloud Services",
+      "vendor_address": "22 Hitech City, Hyderabad, Telangana 500081",
+      "po_date": "2026-02-20",
+      "line_items": [
+        {
+          "description": "27-inch Monitor",
+          "quantity": 10,
+          "unit_price": 17799.12,
+          "line_total": 177991.2
+        },
+        {
+          "description": "Barcode Scanner",
+          "quantity": 11,
+          "unit_price": 6091.29,
+          "line_total": 67004.19
+        }
+      ],
+      "subtotal": 244995.39,
+      "tax": 44099.17,
+      "total": 289094.56,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0018",
+      "supplier": "Vertex Cloud Services",
+      "vendor_address": "22 Hitech City, Hyderabad, Telangana 500081",
+      "po_date": "2026-06-16",
+      "line_items": [
+        {
+          "description": "Network Switch 24-Port",
+          "quantity": 5,
+          "unit_price": 11457.62,
+          "line_total": 57288.1
+        },
+        {
+          "description": "Wireless Keyboard",
+          "quantity": 4,
+          "unit_price": 1450.52,
+          "line_total": 5802.08
+        },
+        {
+          "description": "External SSD 1TB",
+          "quantity": 2,
+          "unit_price": 7206.27,
+          "line_total": 14412.54
+        }
+      ],
+      "subtotal": 77502.72,
+      "tax": 13950.49,
+      "total": 91453.21,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0019",
+      "supplier": "MetroMart Business Supplies",
+      "vendor_address": "28 Vashi Sector 17, Navi Mumbai, Maharashtra 400703",
+      "po_date": "2026-03-24",
+      "line_items": [
+        {
+          "description": "Network Switch 24-Port",
+          "quantity": 6,
+          "unit_price": 10720.97,
+          "line_total": 64325.82
+        },
+        {
+          "description": "Conference Webcam",
+          "quantity": 12,
+          "unit_price": 7240.08,
+          "line_total": 86880.96
+        },
+        {
+          "description": "USB-C Docking Station",
+          "quantity": 11,
+          "unit_price": 6214.74,
+          "line_total": 68362.14
+        },
+        {
+          "description": "Whiteboard",
+          "quantity": 12,
+          "unit_price": 5447.44,
+          "line_total": 65369.28
+        },
+        {
+          "description": "Office Chair",
+          "quantity": 4,
+          "unit_price": 9550.63,
+          "line_total": 38202.52
+        }
+      ],
+      "subtotal": 323140.72,
+      "tax": 58165.33,
+      "total": 381306.05,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0020",
+      "supplier": "Vertex Cloud Services",
+      "vendor_address": "22 Hitech City, Hyderabad, Telangana 500081",
+      "po_date": "2026-02-16",
+      "line_items": [
+        {
+          "description": "External SSD 1TB",
+          "quantity": 9,
+          "unit_price": 7989.03,
+          "line_total": 71901.27
+        },
+        {
+          "description": "Projector",
+          "quantity": 9,
+          "unit_price": 28611.74,
+          "line_total": 257505.66
+        },
+        {
+          "description": "Ethernet Cable Pack",
+          "quantity": 5,
+          "unit_price": 1700.12,
+          "line_total": 8500.6
+        },
+        {
+          "description": "HDMI Cable Pack",
+          "quantity": 3,
+          "unit_price": 1987.18,
+          "line_total": 5961.54
+        },
+        {
+          "description": "Filing Cabinet",
+          "quantity": 3,
+          "unit_price": 6857.43,
+          "line_total": 20572.29
+        }
+      ],
+      "subtotal": 364441.36,
+      "tax": 65599.44,
+      "total": 430040.8,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0021",
+      "supplier": "Crestline Electronics Pvt Ltd",
+      "vendor_address": "16 Whitefield Main Road, Bengaluru, Karnataka 560066",
+      "po_date": "2026-06-24",
+      "line_items": [
+        {
+          "description": "Network Switch 24-Port",
+          "quantity": 1,
+          "unit_price": 11382.18,
+          "line_total": 11382.18
+        },
+        {
+          "description": "Projector",
+          "quantity": 4,
+          "unit_price": 30757.61,
+          "line_total": 123030.44
+        },
+        {
+          "description": "External SSD 1TB",
+          "quantity": 4,
+          "unit_price": 7708.8,
+          "line_total": 30835.2
+        },
+        {
+          "description": "Thermal Label Roll",
+          "quantity": 1,
+          "unit_price": 842.99,
+          "line_total": 842.99
+        }
+      ],
+      "subtotal": 166090.81,
+      "tax": 29896.35,
+      "total": 195987.16,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0022",
+      "supplier": "Apex Office Systems Pvt Ltd",
+      "vendor_address": "12 MG Road, Bengaluru, Karnataka 560001",
+      "po_date": "2026-08-07",
+      "line_items": [
+        {
+          "description": "HDMI Cable Pack",
+          "quantity": 6,
+          "unit_price": 1939.44,
+          "line_total": 11636.64
+        },
+        {
+          "description": "Barcode Scanner",
+          "quantity": 2,
+          "unit_price": 5569.74,
+          "line_total": 11139.48
+        },
+        {
+          "description": "Document Shredder",
+          "quantity": 3,
+          "unit_price": 7229.39,
+          "line_total": 21688.17
+        },
+        {
+          "description": "Office Chair",
+          "quantity": 2,
+          "unit_price": 8947.45,
+          "line_total": 17894.9
+        },
+        {
+          "description": "Thermal Label Roll",
+          "quantity": 7,
+          "unit_price": 824.16,
+          "line_total": 5769.12
+        }
+      ],
+      "subtotal": 68128.31,
+      "tax": 12263.1,
+      "total": 80391.41,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0023",
+      "supplier": "Apex Office Systems Pvt Ltd",
+      "vendor_address": "12 MG Road, Bengaluru, Karnataka 560001",
+      "po_date": "2026-03-12",
+      "line_items": [
+        {
+          "description": "Power Backup UPS",
+          "quantity": 5,
+          "unit_price": 11966.76,
+          "line_total": 59833.8
+        },
+        {
+          "description": "27-inch Monitor",
+          "quantity": 7,
+          "unit_price": 17855.57,
+          "line_total": 124988.99
+        },
+        {
+          "description": "Conference Webcam",
+          "quantity": 12,
+          "unit_price": 6656.75,
+          "line_total": 79881.0
+        },
+        {
+          "description": "USB-C Docking Station",
+          "quantity": 6,
+          "unit_price": 6420.93,
+          "line_total": 38525.58
+        }
+      ],
+      "subtotal": 303229.37,
+      "tax": 54581.29,
+      "total": 357810.66,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0024",
+      "supplier": "BluePeak Technologies Pvt Ltd",
+      "vendor_address": "44 Hinjewadi Phase 1, Pune, Maharashtra 411057",
+      "po_date": "2026-02-23",
+      "line_items": [
+        {
+          "description": "Laptop Stand",
+          "quantity": 3,
+          "unit_price": 2267.58,
+          "line_total": 6802.74
+        },
+        {
+          "description": "Office Chair",
+          "quantity": 4,
+          "unit_price": 9186.55,
+          "line_total": 36746.2
+        },
+        {
+          "description": "Filing Cabinet",
+          "quantity": 7,
+          "unit_price": 7066.61,
+          "line_total": 49466.27
+        },
+        {
+          "description": "Thermal Label Roll",
+          "quantity": 1,
+          "unit_price": 846.46,
+          "line_total": 846.46
+        }
+      ],
+      "subtotal": 93861.67,
+      "tax": 16895.1,
+      "total": 110756.77,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0025",
+      "supplier": "MetroMart Business Supplies",
+      "vendor_address": "28 Vashi Sector 17, Navi Mumbai, Maharashtra 400703",
+      "po_date": "2026-02-05",
+      "line_items": [
+        {
+          "description": "Filing Cabinet",
+          "quantity": 10,
+          "unit_price": 7143.64,
+          "line_total": 71436.4
+        },
+        {
+          "description": "Whiteboard",
+          "quantity": 1,
+          "unit_price": 5436.01,
+          "line_total": 5436.01
+        },
+        {
+          "description": "A4 Copier Paper Box",
+          "quantity": 8,
+          "unit_price": 3951.81,
+          "line_total": 31614.48
+        },
+        {
+          "description": "Document Shredder",
+          "quantity": 6,
+          "unit_price": 7620.44,
+          "line_total": 45722.64
+        }
+      ],
+      "subtotal": 154209.53,
+      "tax": 27757.72,
+      "total": 181967.25,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0026",
+      "supplier": "Sunrise Packaging Industries",
+      "vendor_address": "91 Bhosari MIDC, Pune, Maharashtra 411026",
+      "po_date": "2026-03-20",
+      "line_items": [
+        {
+          "description": "HDMI Cable Pack",
+          "quantity": 5,
+          "unit_price": 2264.52,
+          "line_total": 11322.6
+        },
+        {
+          "description": "Whiteboard",
+          "quantity": 4,
+          "unit_price": 5000.95,
+          "line_total": 20003.8
+        }
+      ],
+      "subtotal": 31326.4,
+      "tax": 5638.75,
+      "total": 36965.15,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0027",
+      "supplier": "Sunrise Packaging Industries",
+      "vendor_address": "91 Bhosari MIDC, Pune, Maharashtra 411026",
+      "po_date": "2026-02-04",
+      "line_items": [
+        {
+          "description": "A4 Copier Paper Box",
+          "quantity": 8,
+          "unit_price": 3571.33,
+          "line_total": 28570.64
+        },
+        {
+          "description": "External SSD 1TB",
+          "quantity": 4,
+          "unit_price": 7710.03,
+          "line_total": 30840.12
+        },
+        {
+          "description": "27-inch Monitor",
+          "quantity": 7,
+          "unit_price": 17483.52,
+          "line_total": 122384.64
+        }
+      ],
+      "subtotal": 181795.4,
+      "tax": 32723.17,
+      "total": 214518.57,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0028",
+      "supplier": "Nova Industrial Supplies",
+      "vendor_address": "18 Andheri East, Mumbai, Maharashtra 400069",
+      "po_date": "2026-05-30",
+      "line_items": [
+        {
+          "description": "A4 Copier Paper Box",
+          "quantity": 2,
+          "unit_price": 4007.67,
+          "line_total": 8015.34
+        },
+        {
+          "description": "USB-C Docking Station",
+          "quantity": 1,
+          "unit_price": 5846.44,
+          "line_total": 5846.44
+        },
+        {
+          "description": "Projector",
+          "quantity": 3,
+          "unit_price": 27890.48,
+          "line_total": 83671.44
+        }
+      ],
+      "subtotal": 97533.22,
+      "tax": 17555.98,
+      "total": 115089.2,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0029",
+      "supplier": "Nova Industrial Supplies",
+      "vendor_address": "18 Andheri East, Mumbai, Maharashtra 400069",
+      "po_date": "2026-04-10",
+      "line_items": [
+        {
+          "description": "Thermal Label Roll",
+          "quantity": 10,
+          "unit_price": 864.97,
+          "line_total": 8649.7
+        },
+        {
+          "description": "Office Chair",
+          "quantity": 7,
+          "unit_price": 9219.31,
+          "line_total": 64535.17
+        },
+        {
+          "description": "Wireless Keyboard",
+          "quantity": 8,
+          "unit_price": 1398.2,
+          "line_total": 11185.6
+        },
+        {
+          "description": "HDMI Cable Pack",
+          "quantity": 6,
+          "unit_price": 2180.92,
+          "line_total": 13085.52
+        }
+      ],
+      "subtotal": 97455.99,
+      "tax": 17542.08,
+      "total": 114998.07,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0030",
+      "supplier": "Sunrise Packaging Industries",
+      "vendor_address": "91 Bhosari MIDC, Pune, Maharashtra 411026",
+      "po_date": "2026-05-04",
+      "line_items": [
+        {
+          "description": "Filing Cabinet",
+          "quantity": 7,
+          "unit_price": 6709.63,
+          "line_total": 46967.41
+        },
+        {
+          "description": "Thermal Label Roll",
+          "quantity": 3,
+          "unit_price": 833.52,
+          "line_total": 2500.56
+        }
+      ],
+      "subtotal": 49467.97,
+      "tax": 8904.23,
+      "total": 58372.2,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0031",
+      "supplier": "MetroMart Business Supplies",
+      "vendor_address": "28 Vashi Sector 17, Navi Mumbai, Maharashtra 400703",
+      "po_date": "2026-05-23",
+      "line_items": [
+        {
+          "description": "Wireless Keyboard",
+          "quantity": 4,
+          "unit_price": 1544.57,
+          "line_total": 6178.28
+        },
+        {
+          "description": "Laser Printer",
+          "quantity": 4,
+          "unit_price": 18233.1,
+          "line_total": 72932.4
+        },
+        {
+          "description": "Barcode Scanner",
+          "quantity": 10,
+          "unit_price": 6113.6,
+          "line_total": 61136.0
+        }
+      ],
+      "subtotal": 140246.68,
+      "tax": 25244.4,
+      "total": 165491.08,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0032",
+      "supplier": "PrimeBuild Materials",
+      "vendor_address": "33 Civil Lines, Nagpur, Maharashtra 440001",
+      "po_date": "2026-01-05",
+      "line_items": [
+        {
+          "description": "USB-C Docking Station",
+          "quantity": 12,
+          "unit_price": 6357.31,
+          "line_total": 76287.72
+        },
+        {
+          "description": "Whiteboard",
+          "quantity": 8,
+          "unit_price": 5583.08,
+          "line_total": 44664.64
+        },
+        {
+          "description": "Thermal Label Roll",
+          "quantity": 5,
+          "unit_price": 820.84,
+          "line_total": 4104.2
+        },
+        {
+          "description": "HDMI Cable Pack",
+          "quantity": 6,
+          "unit_price": 2109.92,
+          "line_total": 12659.52
+        },
+        {
+          "description": "Wireless Keyboard",
+          "quantity": 10,
+          "unit_price": 1447.54,
+          "line_total": 14475.4
+        }
+      ],
+      "subtotal": 152191.48,
+      "tax": 27394.47,
+      "total": 179585.95,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0033",
+      "supplier": "GreenGrid Solutions Pvt Ltd",
+      "vendor_address": "7 Salt Lake Sector V, Kolkata, West Bengal 700091",
+      "po_date": "2026-07-08",
+      "line_items": [
+        {
+          "description": "HDMI Cable Pack",
+          "quantity": 6,
+          "unit_price": 2187.56,
+          "line_total": 13125.36
+        },
+        {
+          "description": "Document Shredder",
+          "quantity": 8,
+          "unit_price": 8210.11,
+          "line_total": 65680.88
+        }
+      ],
+      "subtotal": 78806.24,
+      "tax": 14185.12,
+      "total": 92991.36,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0034",
+      "supplier": "BluePeak Technologies Pvt Ltd",
+      "vendor_address": "44 Hinjewadi Phase 1, Pune, Maharashtra 411057",
+      "po_date": "2026-02-03",
+      "line_items": [
+        {
+          "description": "Power Backup UPS",
+          "quantity": 10,
+          "unit_price": 13820.03,
+          "line_total": 138200.3
+        },
+        {
+          "description": "HDMI Cable Pack",
+          "quantity": 6,
+          "unit_price": 2121.81,
+          "line_total": 12730.86
+        },
+        {
+          "description": "Network Switch 24-Port",
+          "quantity": 7,
+          "unit_price": 11774.55,
+          "line_total": 82421.85
+        }
+      ],
+      "subtotal": 233353.01,
+      "tax": 42003.54,
+      "total": 275356.55,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0035",
+      "supplier": "MetroMart Business Supplies",
+      "vendor_address": "28 Vashi Sector 17, Navi Mumbai, Maharashtra 400703",
+      "po_date": "2026-06-20",
+      "line_items": [
+        {
+          "description": "Desk Lamp",
+          "quantity": 7,
+          "unit_price": 1189.39,
+          "line_total": 8325.73
+        },
+        {
+          "description": "Power Backup UPS",
+          "quantity": 7,
+          "unit_price": 11891.68,
+          "line_total": 83241.76
+        },
+        {
+          "description": "Wireless Keyboard",
+          "quantity": 1,
+          "unit_price": 1454.73,
+          "line_total": 1454.73
+        },
+        {
+          "description": "HDMI Cable Pack",
+          "quantity": 8,
+          "unit_price": 2100.74,
+          "line_total": 16805.92
+        },
+        {
+          "description": "Whiteboard",
+          "quantity": 4,
+          "unit_price": 5444.71,
+          "line_total": 21778.84
+        }
+      ],
+      "subtotal": 131606.98,
+      "tax": 23689.26,
+      "total": 155296.24,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0036",
+      "supplier": "Sunrise Packaging Industries",
+      "vendor_address": "91 Bhosari MIDC, Pune, Maharashtra 411026",
+      "po_date": "2026-04-26",
+      "line_items": [
+        {
+          "description": "Desk Lamp",
+          "quantity": 10,
+          "unit_price": 1331.3,
+          "line_total": 13313.0
+        },
+        {
+          "description": "Document Shredder",
+          "quantity": 7,
+          "unit_price": 7544.91,
+          "line_total": 52814.37
+        }
+      ],
+      "subtotal": 66127.37,
+      "tax": 11902.93,
+      "total": 78030.3,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0037",
+      "supplier": "Crestline Electronics Pvt Ltd",
+      "vendor_address": "16 Whitefield Main Road, Bengaluru, Karnataka 560066",
+      "po_date": "2026-06-26",
+      "line_items": [
+        {
+          "description": "27-inch Monitor",
+          "quantity": 8,
+          "unit_price": 16611.38,
+          "line_total": 132891.04
+        },
+        {
+          "description": "Laser Printer",
+          "quantity": 8,
+          "unit_price": 19088.47,
+          "line_total": 152707.76
+        }
+      ],
+      "subtotal": 285598.8,
+      "tax": 51407.78,
+      "total": 337006.58,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0038",
+      "supplier": "BluePeak Technologies Pvt Ltd",
+      "vendor_address": "44 Hinjewadi Phase 1, Pune, Maharashtra 411057",
+      "po_date": "2026-01-21",
+      "line_items": [
+        {
+          "description": "Wireless Keyboard",
+          "quantity": 5,
+          "unit_price": 1471.05,
+          "line_total": 7355.25
+        },
+        {
+          "description": "Filing Cabinet",
+          "quantity": 12,
+          "unit_price": 6596.7,
+          "line_total": 79160.4
+        }
+      ],
+      "subtotal": 86515.65,
+      "tax": 15572.82,
+      "total": 102088.47,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0039",
+      "supplier": "GreenGrid Solutions Pvt Ltd",
+      "vendor_address": "7 Salt Lake Sector V, Kolkata, West Bengal 700091",
+      "po_date": "2026-08-08",
+      "line_items": [
+        {
+          "description": "Office Chair",
+          "quantity": 9,
+          "unit_price": 9859.89,
+          "line_total": 88739.01
+        },
+        {
+          "description": "Ethernet Cable Pack",
+          "quantity": 3,
+          "unit_price": 1563.04,
+          "line_total": 4689.12
+        }
+      ],
+      "subtotal": 93428.13,
+      "tax": 16817.06,
+      "total": 110245.19,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0040",
+      "supplier": "Vertex Cloud Services",
+      "vendor_address": "22 Hitech City, Hyderabad, Telangana 500081",
+      "po_date": "2026-02-24",
+      "line_items": [
+        {
+          "description": "A4 Copier Paper Box",
+          "quantity": 7,
+          "unit_price": 3695.74,
+          "line_total": 25870.18
+        },
+        {
+          "description": "Filing Cabinet",
+          "quantity": 1,
+          "unit_price": 6939.68,
+          "line_total": 6939.68
+        },
+        {
+          "description": "Desk Lamp",
+          "quantity": 4,
+          "unit_price": 1171.39,
+          "line_total": 4685.56
+        },
+        {
+          "description": "Laptop Stand",
+          "quantity": 9,
+          "unit_price": 2195.14,
+          "line_total": 19756.26
+        }
+      ],
+      "subtotal": 57251.68,
+      "tax": 10305.3,
+      "total": 67556.98,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0041",
+      "supplier": "Vertex Cloud Services",
+      "vendor_address": "22 Hitech City, Hyderabad, Telangana 500081",
+      "po_date": "2026-02-02",
+      "line_items": [
+        {
+          "description": "Whiteboard",
+          "quantity": 12,
+          "unit_price": 5577.37,
+          "line_total": 66928.44
+        },
+        {
+          "description": "Network Switch 24-Port",
+          "quantity": 6,
+          "unit_price": 11087.64,
+          "line_total": 66525.84
+        },
+        {
+          "description": "External SSD 1TB",
+          "quantity": 8,
+          "unit_price": 6980.67,
+          "line_total": 55845.36
+        }
+      ],
+      "subtotal": 189299.64,
+      "tax": 34073.94,
+      "total": 223373.58,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0042",
+      "supplier": "Apex Office Systems Pvt Ltd",
+      "vendor_address": "12 MG Road, Bengaluru, Karnataka 560001",
+      "po_date": "2026-03-04",
+      "line_items": [
+        {
+          "description": "Whiteboard",
+          "quantity": 4,
+          "unit_price": 5092.13,
+          "line_total": 20368.52
+        },
+        {
+          "description": "Network Switch 24-Port",
+          "quantity": 11,
+          "unit_price": 11129.44,
+          "line_total": 122423.84
+        },
+        {
+          "description": "Laptop Stand",
+          "quantity": 5,
+          "unit_price": 2442.98,
+          "line_total": 12214.9
+        },
+        {
+          "description": "Filing Cabinet",
+          "quantity": 4,
+          "unit_price": 6685.9,
+          "line_total": 26743.6
+        }
+      ],
+      "subtotal": 181750.86,
+      "tax": 32715.15,
+      "total": 214466.01,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0043",
+      "supplier": "Apex Office Systems Pvt Ltd",
+      "vendor_address": "12 MG Road, Bengaluru, Karnataka 560001",
+      "po_date": "2026-02-27",
+      "line_items": [
+        {
+          "description": "HDMI Cable Pack",
+          "quantity": 6,
+          "unit_price": 2093.67,
+          "line_total": 12562.02
+        },
+        {
+          "description": "A4 Copier Paper Box",
+          "quantity": 8,
+          "unit_price": 3725.46,
+          "line_total": 29803.68
+        },
+        {
+          "description": "Laser Printer",
+          "quantity": 8,
+          "unit_price": 19826.64,
+          "line_total": 158613.12
+        },
+        {
+          "description": "Conference Webcam",
+          "quantity": 10,
+          "unit_price": 6519.44,
+          "line_total": 65194.4
+        }
+      ],
+      "subtotal": 266173.22,
+      "tax": 47911.18,
+      "total": 314084.4,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0044",
+      "supplier": "BluePeak Technologies Pvt Ltd",
+      "vendor_address": "44 Hinjewadi Phase 1, Pune, Maharashtra 411057",
+      "po_date": "2026-02-05",
+      "line_items": [
+        {
+          "description": "Conference Webcam",
+          "quantity": 4,
+          "unit_price": 7104.96,
+          "line_total": 28419.84
+        },
+        {
+          "description": "Power Backup UPS",
+          "quantity": 11,
+          "unit_price": 12197.89,
+          "line_total": 134176.79
+        },
+        {
+          "description": "Document Shredder",
+          "quantity": 7,
+          "unit_price": 7345.23,
+          "line_total": 51416.61
+        }
+      ],
+      "subtotal": 214013.24,
+      "tax": 38522.38,
+      "total": 252535.62,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0045",
+      "supplier": "Apex Office Systems Pvt Ltd",
+      "vendor_address": "12 MG Road, Bengaluru, Karnataka 560001",
+      "po_date": "2026-04-24",
+      "line_items": [
+        {
+          "description": "Projector",
+          "quantity": 9,
+          "unit_price": 28206.47,
+          "line_total": 253858.23
+        },
+        {
+          "description": "Network Switch 24-Port",
+          "quantity": 1,
+          "unit_price": 12084.63,
+          "line_total": 12084.63
+        }
+      ],
+      "subtotal": 265942.86,
+      "tax": 47869.71,
+      "total": 313812.57,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0046",
+      "supplier": "Vertex Cloud Services",
+      "vendor_address": "22 Hitech City, Hyderabad, Telangana 500081",
+      "po_date": "2026-06-18",
+      "line_items": [
+        {
+          "description": "Whiteboard",
+          "quantity": 2,
+          "unit_price": 5483.22,
+          "line_total": 10966.44
+        },
+        {
+          "description": "Desk Lamp",
+          "quantity": 8,
+          "unit_price": 1319.29,
+          "line_total": 10554.32
+        },
+        {
+          "description": "Laptop Stand",
+          "quantity": 10,
+          "unit_price": 2511.67,
+          "line_total": 25116.7
+        }
+      ],
+      "subtotal": 46637.46,
+      "tax": 8394.74,
+      "total": 55032.2,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0047",
+      "supplier": "MetroMart Business Supplies",
+      "vendor_address": "28 Vashi Sector 17, Navi Mumbai, Maharashtra 400703",
+      "po_date": "2026-04-10",
+      "line_items": [
+        {
+          "description": "Office Chair",
+          "quantity": 7,
+          "unit_price": 8594.59,
+          "line_total": 60162.13
+        },
+        {
+          "description": "Document Shredder",
+          "quantity": 4,
+          "unit_price": 7324.77,
+          "line_total": 29299.08
+        }
+      ],
+      "subtotal": 89461.21,
+      "tax": 16103.02,
+      "total": 105564.23,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0048",
+      "supplier": "PrimeBuild Materials",
+      "vendor_address": "33 Civil Lines, Nagpur, Maharashtra 440001",
+      "po_date": "2026-01-19",
+      "line_items": [
+        {
+          "description": "Laser Printer",
+          "quantity": 3,
+          "unit_price": 19510.85,
+          "line_total": 58532.55
+        },
+        {
+          "description": "Laptop Stand",
+          "quantity": 4,
+          "unit_price": 2480.47,
+          "line_total": 9921.88
+        },
+        {
+          "description": "Wireless Keyboard",
+          "quantity": 4,
+          "unit_price": 1488.98,
+          "line_total": 5955.92
+        },
+        {
+          "description": "Thermal Label Roll",
+          "quantity": 11,
+          "unit_price": 808.9,
+          "line_total": 8897.9
+        },
+        {
+          "description": "Conference Webcam",
+          "quantity": 12,
+          "unit_price": 6548.19,
+          "line_total": 78578.28
+        }
+      ],
+      "subtotal": 161886.53,
+      "tax": 29139.58,
+      "total": 191026.11,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0049",
+      "supplier": "Vertex Cloud Services",
+      "vendor_address": "22 Hitech City, Hyderabad, Telangana 500081",
+      "po_date": "2026-04-19",
+      "line_items": [
+        {
+          "description": "Desk Lamp",
+          "quantity": 9,
+          "unit_price": 1243.77,
+          "line_total": 11193.93
+        },
+        {
+          "description": "Laptop Stand",
+          "quantity": 11,
+          "unit_price": 2226.75,
+          "line_total": 24494.25
+        },
+        {
+          "description": "Whiteboard",
+          "quantity": 2,
+          "unit_price": 5210.16,
+          "line_total": 10420.32
+        },
+        {
+          "description": "A4 Copier Paper Box",
+          "quantity": 4,
+          "unit_price": 4067.9,
+          "line_total": 16271.6
+        }
+      ],
+      "subtotal": 62380.1,
+      "tax": 11228.42,
+      "total": 73608.52,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0050",
+      "supplier": "GreenGrid Solutions Pvt Ltd",
+      "vendor_address": "7 Salt Lake Sector V, Kolkata, West Bengal 700091",
+      "po_date": "2026-04-22",
+      "line_items": [
+        {
+          "description": "Conference Webcam",
+          "quantity": 9,
+          "unit_price": 6538.05,
+          "line_total": 58842.45
+        },
+        {
+          "description": "Thermal Label Roll",
+          "quantity": 9,
+          "unit_price": 781.26,
+          "line_total": 7031.34
+        }
+      ],
+      "subtotal": 65873.79,
+      "tax": 11857.28,
+      "total": 77731.07,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0051",
+      "supplier": "MetroMart Business Supplies",
+      "vendor_address": "28 Vashi Sector 17, Navi Mumbai, Maharashtra 400703",
+      "po_date": "2026-08-13",
+      "line_items": [
+        {
+          "description": "Projector",
+          "quantity": 3,
+          "unit_price": 30026.76,
+          "line_total": 90080.28
+        },
+        {
+          "description": "27-inch Monitor",
+          "quantity": 4,
+          "unit_price": 16037.66,
+          "line_total": 64150.64
+        },
+        {
+          "description": "A4 Copier Paper Box",
+          "quantity": 5,
+          "unit_price": 3808.46,
+          "line_total": 19042.3
+        }
+      ],
+      "subtotal": 173273.22,
+      "tax": 31189.18,
+      "total": 204462.4,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0052",
+      "supplier": "Vertex Cloud Services",
+      "vendor_address": "22 Hitech City, Hyderabad, Telangana 500081",
+      "po_date": "2026-02-20",
+      "line_items": [
+        {
+          "description": "USB-C Docking Station",
+          "quantity": 7,
+          "unit_price": 6112.88,
+          "line_total": 42790.16
+        },
+        {
+          "description": "Network Switch 24-Port",
+          "quantity": 9,
+          "unit_price": 11069.55,
+          "line_total": 99625.95
+        },
+        {
+          "description": "Laser Printer",
+          "quantity": 5,
+          "unit_price": 17901.92,
+          "line_total": 89509.6
+        },
+        {
+          "description": "Filing Cabinet",
+          "quantity": 9,
+          "unit_price": 6803.79,
+          "line_total": 61234.11
+        },
+        {
+          "description": "27-inch Monitor",
+          "quantity": 2,
+          "unit_price": 17691.2,
+          "line_total": 35382.4
+        }
+      ],
+      "subtotal": 328542.22,
+      "tax": 59137.6,
+      "total": 387679.82,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0053",
+      "supplier": "Nova Industrial Supplies",
+      "vendor_address": "18 Andheri East, Mumbai, Maharashtra 400069",
+      "po_date": "2026-06-15",
+      "line_items": [
+        {
+          "description": "Wireless Keyboard",
+          "quantity": 8,
+          "unit_price": 1497.89,
+          "line_total": 11983.12
+        },
+        {
+          "description": "Network Switch 24-Port",
+          "quantity": 5,
+          "unit_price": 11522.95,
+          "line_total": 57614.75
+        }
+      ],
+      "subtotal": 69597.87,
+      "tax": 12527.62,
+      "total": 82125.49,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0054",
+      "supplier": "Orbit Data Systems Pvt Ltd",
+      "vendor_address": "5 Anna Salai, Chennai, Tamil Nadu 600002",
+      "po_date": "2026-06-07",
+      "line_items": [
+        {
+          "description": "Power Backup UPS",
+          "quantity": 12,
+          "unit_price": 13318.9,
+          "line_total": 159826.8
+        },
+        {
+          "description": "Whiteboard",
+          "quantity": 9,
+          "unit_price": 5807.97,
+          "line_total": 52271.73
+        }
+      ],
+      "subtotal": 212098.53,
+      "tax": 38177.74,
+      "total": 250276.27,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0055",
+      "supplier": "GreenGrid Solutions Pvt Ltd",
+      "vendor_address": "7 Salt Lake Sector V, Kolkata, West Bengal 700091",
+      "po_date": "2026-04-23",
+      "line_items": [
+        {
+          "description": "Whiteboard",
+          "quantity": 12,
+          "unit_price": 5687.79,
+          "line_total": 68253.48
+        },
+        {
+          "description": "USB-C Docking Station",
+          "quantity": 5,
+          "unit_price": 5969.18,
+          "line_total": 29845.9
+        },
+        {
+          "description": "Office Chair",
+          "quantity": 2,
+          "unit_price": 9778.61,
+          "line_total": 19557.22
+        }
+      ],
+      "subtotal": 117656.6,
+      "tax": 21178.19,
+      "total": 138834.79,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0056",
+      "supplier": "MetroMart Business Supplies",
+      "vendor_address": "28 Vashi Sector 17, Navi Mumbai, Maharashtra 400703",
+      "po_date": "2026-04-07",
+      "line_items": [
+        {
+          "description": "A4 Copier Paper Box",
+          "quantity": 7,
+          "unit_price": 3838.7,
+          "line_total": 26870.9
+        },
+        {
+          "description": "Desk Lamp",
+          "quantity": 11,
+          "unit_price": 1297.01,
+          "line_total": 14267.11
+        },
+        {
+          "description": "Barcode Scanner",
+          "quantity": 7,
+          "unit_price": 6257.44,
+          "line_total": 43802.08
+        },
+        {
+          "description": "External SSD 1TB",
+          "quantity": 3,
+          "unit_price": 7380.94,
+          "line_total": 22142.82
+        }
+      ],
+      "subtotal": 107082.91,
+      "tax": 19274.92,
+      "total": 126357.83,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0057",
+      "supplier": "Orbit Data Systems Pvt Ltd",
+      "vendor_address": "5 Anna Salai, Chennai, Tamil Nadu 600002",
+      "po_date": "2026-03-09",
+      "line_items": [
+        {
+          "description": "Laptop Stand",
+          "quantity": 9,
+          "unit_price": 2464.49,
+          "line_total": 22180.41
+        },
+        {
+          "description": "Thermal Label Roll",
+          "quantity": 2,
+          "unit_price": 824.15,
+          "line_total": 1648.3
+        }
+      ],
+      "subtotal": 23828.71,
+      "tax": 4289.17,
+      "total": 28117.88,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0058",
+      "supplier": "Orbit Data Systems Pvt Ltd",
+      "vendor_address": "5 Anna Salai, Chennai, Tamil Nadu 600002",
+      "po_date": "2026-08-10",
+      "line_items": [
+        {
+          "description": "Laptop Stand",
+          "quantity": 12,
+          "unit_price": 2253.0,
+          "line_total": 27036.0
+        },
+        {
+          "description": "Wireless Keyboard",
+          "quantity": 9,
+          "unit_price": 1365.42,
+          "line_total": 12288.78
+        },
+        {
+          "description": "USB-C Docking Station",
+          "quantity": 12,
+          "unit_price": 5955.58,
+          "line_total": 71466.96
+        }
+      ],
+      "subtotal": 110791.74,
+      "tax": 19942.51,
+      "total": 130734.25,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0059",
+      "supplier": "Orbit Data Systems Pvt Ltd",
+      "vendor_address": "5 Anna Salai, Chennai, Tamil Nadu 600002",
+      "po_date": "2026-07-15",
+      "line_items": [
+        {
+          "description": "Whiteboard",
+          "quantity": 8,
+          "unit_price": 5207.22,
+          "line_total": 41657.76
+        },
+        {
+          "description": "Conference Webcam",
+          "quantity": 2,
+          "unit_price": 6736.94,
+          "line_total": 13473.88
+        },
+        {
+          "description": "Power Backup UPS",
+          "quantity": 4,
+          "unit_price": 12180.51,
+          "line_total": 48722.04
+        },
+        {
+          "description": "27-inch Monitor",
+          "quantity": 6,
+          "unit_price": 17204.57,
+          "line_total": 103227.42
+        }
+      ],
+      "subtotal": 207081.1,
+      "tax": 37274.6,
+      "total": 244355.7,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0060",
+      "supplier": "Vertex Cloud Services",
+      "vendor_address": "22 Hitech City, Hyderabad, Telangana 500081",
+      "po_date": "2026-08-03",
+      "line_items": [
+        {
+          "description": "27-inch Monitor",
+          "quantity": 12,
+          "unit_price": 17245.21,
+          "line_total": 206942.52
+        },
+        {
+          "description": "Network Switch 24-Port",
+          "quantity": 8,
+          "unit_price": 11885.01,
+          "line_total": 95080.08
+        },
+        {
+          "description": "Document Shredder",
+          "quantity": 7,
+          "unit_price": 7825.37,
+          "line_total": 54777.59
+        },
+        {
+          "description": "Filing Cabinet",
+          "quantity": 3,
+          "unit_price": 6886.44,
+          "line_total": 20659.32
+        },
+        {
+          "description": "Desk Lamp",
+          "quantity": 5,
+          "unit_price": 1192.23,
+          "line_total": 5961.15
+        }
+      ],
+      "subtotal": 383420.66,
+      "tax": 69015.72,
+      "total": 452436.38,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0061",
+      "supplier": "Vertex Cloud Services",
+      "vendor_address": "22 Hitech City, Hyderabad, Telangana 500081",
+      "po_date": "2026-05-20",
+      "line_items": [
+        {
+          "description": "Thermal Label Roll",
+          "quantity": 5,
+          "unit_price": 879.32,
+          "line_total": 4396.6
+        },
+        {
+          "description": "Projector",
+          "quantity": 2,
+          "unit_price": 30298.13,
+          "line_total": 60596.26
+        }
+      ],
+      "subtotal": 64992.86,
+      "tax": 11698.71,
+      "total": 76691.57,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0062",
+      "supplier": "Orbit Data Systems Pvt Ltd",
+      "vendor_address": "5 Anna Salai, Chennai, Tamil Nadu 600002",
+      "po_date": "2026-03-04",
+      "line_items": [
+        {
+          "description": "Whiteboard",
+          "quantity": 9,
+          "unit_price": 5014.47,
+          "line_total": 45130.23
+        },
+        {
+          "description": "Filing Cabinet",
+          "quantity": 3,
+          "unit_price": 7016.52,
+          "line_total": 21049.56
+        },
+        {
+          "description": "Office Chair",
+          "quantity": 2,
+          "unit_price": 9088.61,
+          "line_total": 18177.22
+        }
+      ],
+      "subtotal": 84357.01,
+      "tax": 15184.26,
+      "total": 99541.27,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0063",
+      "supplier": "PrimeBuild Materials",
+      "vendor_address": "33 Civil Lines, Nagpur, Maharashtra 440001",
+      "po_date": "2026-05-02",
+      "line_items": [
+        {
+          "description": "Laser Printer",
+          "quantity": 7,
+          "unit_price": 19496.02,
+          "line_total": 136472.14
+        },
+        {
+          "description": "Office Chair",
+          "quantity": 8,
+          "unit_price": 8541.61,
+          "line_total": 68332.88
+        }
+      ],
+      "subtotal": 204805.02,
+      "tax": 36864.9,
+      "total": 241669.92,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0064",
+      "supplier": "MetroMart Business Supplies",
+      "vendor_address": "28 Vashi Sector 17, Navi Mumbai, Maharashtra 400703",
+      "po_date": "2026-04-26",
+      "line_items": [
+        {
+          "description": "Thermal Label Roll",
+          "quantity": 6,
+          "unit_price": 795.33,
+          "line_total": 4771.98
+        },
+        {
+          "description": "Office Chair",
+          "quantity": 10,
+          "unit_price": 9032.29,
+          "line_total": 90322.9
+        },
+        {
+          "description": "Network Switch 24-Port",
+          "quantity": 2,
+          "unit_price": 10879.25,
+          "line_total": 21758.5
+        },
+        {
+          "description": "Projector",
+          "quantity": 10,
+          "unit_price": 28151.88,
+          "line_total": 281518.8
+        },
+        {
+          "description": "Barcode Scanner",
+          "quantity": 10,
+          "unit_price": 5767.36,
+          "line_total": 57673.6
+        }
+      ],
+      "subtotal": 456045.78,
+      "tax": 82088.24,
+      "total": 538134.02,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0065",
+      "supplier": "BluePeak Technologies Pvt Ltd",
+      "vendor_address": "44 Hinjewadi Phase 1, Pune, Maharashtra 411057",
+      "po_date": "2026-07-17",
+      "line_items": [
+        {
+          "description": "Barcode Scanner",
+          "quantity": 10,
+          "unit_price": 5865.54,
+          "line_total": 58655.4
+        },
+        {
+          "description": "Power Backup UPS",
+          "quantity": 5,
+          "unit_price": 12882.66,
+          "line_total": 64413.3
+        },
+        {
+          "description": "Conference Webcam",
+          "quantity": 7,
+          "unit_price": 6585.56,
+          "line_total": 46098.92
+        },
+        {
+          "description": "Wireless Keyboard",
+          "quantity": 12,
+          "unit_price": 1392.26,
+          "line_total": 16707.12
+        },
+        {
+          "description": "Ethernet Cable Pack",
+          "quantity": 6,
+          "unit_price": 1686.12,
+          "line_total": 10116.72
+        }
+      ],
+      "subtotal": 195991.46,
+      "tax": 35278.46,
+      "total": 231269.92,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0066",
+      "supplier": "Crestline Electronics Pvt Ltd",
+      "vendor_address": "16 Whitefield Main Road, Bengaluru, Karnataka 560066",
+      "po_date": "2026-05-17",
+      "line_items": [
+        {
+          "description": "Power Backup UPS",
+          "quantity": 3,
+          "unit_price": 12592.63,
+          "line_total": 37777.89
+        },
+        {
+          "description": "Whiteboard",
+          "quantity": 9,
+          "unit_price": 5012.9,
+          "line_total": 45116.1
+        },
+        {
+          "description": "Document Shredder",
+          "quantity": 10,
+          "unit_price": 7905.18,
+          "line_total": 79051.8
+        },
+        {
+          "description": "USB-C Docking Station",
+          "quantity": 11,
+          "unit_price": 5866.72,
+          "line_total": 64533.92
+        }
+      ],
+      "subtotal": 226479.71,
+      "tax": 40766.35,
+      "total": 267246.06,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0067",
+      "supplier": "Vertex Cloud Services",
+      "vendor_address": "22 Hitech City, Hyderabad, Telangana 500081",
+      "po_date": "2026-07-10",
+      "line_items": [
+        {
+          "description": "External SSD 1TB",
+          "quantity": 7,
+          "unit_price": 7283.81,
+          "line_total": 50986.67
+        },
+        {
+          "description": "Conference Webcam",
+          "quantity": 7,
+          "unit_price": 6611.73,
+          "line_total": 46282.11
+        },
+        {
+          "description": "Ethernet Cable Pack",
+          "quantity": 11,
+          "unit_price": 1661.59,
+          "line_total": 18277.49
+        },
+        {
+          "description": "USB-C Docking Station",
+          "quantity": 2,
+          "unit_price": 6494.74,
+          "line_total": 12989.48
+        }
+      ],
+      "subtotal": 128535.75,
+      "tax": 23136.44,
+      "total": 151672.19,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0068",
+      "supplier": "Crestline Electronics Pvt Ltd",
+      "vendor_address": "16 Whitefield Main Road, Bengaluru, Karnataka 560066",
+      "po_date": "2026-05-24",
+      "line_items": [
+        {
+          "description": "A4 Copier Paper Box",
+          "quantity": 1,
+          "unit_price": 3938.11,
+          "line_total": 3938.11
+        },
+        {
+          "description": "Thermal Label Roll",
+          "quantity": 5,
+          "unit_price": 871.42,
+          "line_total": 4357.1
+        },
+        {
+          "description": "Filing Cabinet",
+          "quantity": 7,
+          "unit_price": 7180.86,
+          "line_total": 50266.02
+        }
+      ],
+      "subtotal": 58561.23,
+      "tax": 10541.02,
+      "total": 69102.25,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0069",
+      "supplier": "MetroMart Business Supplies",
+      "vendor_address": "28 Vashi Sector 17, Navi Mumbai, Maharashtra 400703",
+      "po_date": "2026-07-02",
+      "line_items": [
+        {
+          "description": "Office Chair",
+          "quantity": 3,
+          "unit_price": 9202.42,
+          "line_total": 27607.26
+        },
+        {
+          "description": "Projector",
+          "quantity": 8,
+          "unit_price": 28949.35,
+          "line_total": 231594.8
+        },
+        {
+          "description": "Conference Webcam",
+          "quantity": 4,
+          "unit_price": 6762.46,
+          "line_total": 27049.84
+        },
+        {
+          "description": "Laser Printer",
+          "quantity": 2,
+          "unit_price": 19602.92,
+          "line_total": 39205.84
+        },
+        {
+          "description": "Ethernet Cable Pack",
+          "quantity": 12,
+          "unit_price": 1531.02,
+          "line_total": 18372.24
+        }
+      ],
+      "subtotal": 343829.98,
+      "tax": 61889.4,
+      "total": 405719.38,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0070",
+      "supplier": "MetroMart Business Supplies",
+      "vendor_address": "28 Vashi Sector 17, Navi Mumbai, Maharashtra 400703",
+      "po_date": "2026-06-18",
+      "line_items": [
+        {
+          "description": "Wireless Keyboard",
+          "quantity": 1,
+          "unit_price": 1564.76,
+          "line_total": 1564.76
+        },
+        {
+          "description": "USB-C Docking Station",
+          "quantity": 5,
+          "unit_price": 6264.65,
+          "line_total": 31323.25
+        },
+        {
+          "description": "Document Shredder",
+          "quantity": 9,
+          "unit_price": 7431.15,
+          "line_total": 66880.35
+        },
+        {
+          "description": "Filing Cabinet",
+          "quantity": 7,
+          "unit_price": 6621.28,
+          "line_total": 46348.96
+        },
+        {
+          "description": "Ethernet Cable Pack",
+          "quantity": 6,
+          "unit_price": 1770.7,
+          "line_total": 10624.2
+        }
+      ],
+      "subtotal": 156741.52,
+      "tax": 28213.47,
+      "total": 184954.99,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0071",
+      "supplier": "Apex Office Systems Pvt Ltd",
+      "vendor_address": "12 MG Road, Bengaluru, Karnataka 560001",
+      "po_date": "2026-05-20",
+      "line_items": [
+        {
+          "description": "Ethernet Cable Pack",
+          "quantity": 11,
+          "unit_price": 1748.54,
+          "line_total": 19233.94
+        },
+        {
+          "description": "Document Shredder",
+          "quantity": 1,
+          "unit_price": 7629.25,
+          "line_total": 7629.25
+        },
+        {
+          "description": "Laser Printer",
+          "quantity": 1,
+          "unit_price": 17384.31,
+          "line_total": 17384.31
+        },
+        {
+          "description": "Filing Cabinet",
+          "quantity": 10,
+          "unit_price": 6322.26,
+          "line_total": 63222.6
+        }
+      ],
+      "subtotal": 107470.1,
+      "tax": 19344.62,
+      "total": 126814.72,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0072",
+      "supplier": "Sunrise Packaging Industries",
+      "vendor_address": "91 Bhosari MIDC, Pune, Maharashtra 411026",
+      "po_date": "2026-05-08",
+      "line_items": [
+        {
+          "description": "A4 Copier Paper Box",
+          "quantity": 4,
+          "unit_price": 4072.7,
+          "line_total": 16290.8
+        },
+        {
+          "description": "Thermal Label Roll",
+          "quantity": 6,
+          "unit_price": 856.27,
+          "line_total": 5137.62
+        },
+        {
+          "description": "Conference Webcam",
+          "quantity": 3,
+          "unit_price": 6832.87,
+          "line_total": 20498.61
+        },
+        {
+          "description": "Laptop Stand",
+          "quantity": 4,
+          "unit_price": 2261.02,
+          "line_total": 9044.08
+        },
+        {
+          "description": "Document Shredder",
+          "quantity": 11,
+          "unit_price": 7585.64,
+          "line_total": 83442.04
+        }
+      ],
+      "subtotal": 134413.15,
+      "tax": 24194.37,
+      "total": 158607.52,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0073",
+      "supplier": "MetroMart Business Supplies",
+      "vendor_address": "28 Vashi Sector 17, Navi Mumbai, Maharashtra 400703",
+      "po_date": "2026-03-02",
+      "line_items": [
+        {
+          "description": "Thermal Label Roll",
+          "quantity": 5,
+          "unit_price": 860.97,
+          "line_total": 4304.85
+        },
+        {
+          "description": "USB-C Docking Station",
+          "quantity": 8,
+          "unit_price": 5937.95,
+          "line_total": 47503.6
+        },
+        {
+          "description": "Power Backup UPS",
+          "quantity": 1,
+          "unit_price": 13031.26,
+          "line_total": 13031.26
+        }
+      ],
+      "subtotal": 64839.71,
+      "tax": 11671.15,
+      "total": 76510.86,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0074",
+      "supplier": "PrimeBuild Materials",
+      "vendor_address": "33 Civil Lines, Nagpur, Maharashtra 440001",
+      "po_date": "2026-04-29",
+      "line_items": [
+        {
+          "description": "HDMI Cable Pack",
+          "quantity": 9,
+          "unit_price": 2085.3,
+          "line_total": 18767.7
+        },
+        {
+          "description": "Laptop Stand",
+          "quantity": 5,
+          "unit_price": 2405.83,
+          "line_total": 12029.15
+        },
+        {
+          "description": "External SSD 1TB",
+          "quantity": 3,
+          "unit_price": 7112.04,
+          "line_total": 21336.12
+        },
+        {
+          "description": "Desk Lamp",
+          "quantity": 1,
+          "unit_price": 1170.3,
+          "line_total": 1170.3
+        },
+        {
+          "description": "Filing Cabinet",
+          "quantity": 12,
+          "unit_price": 6626.46,
+          "line_total": 79517.52
+        }
+      ],
+      "subtotal": 132820.79,
+      "tax": 23907.74,
+      "total": 156728.53,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0075",
+      "supplier": "Nova Industrial Supplies",
+      "vendor_address": "18 Andheri East, Mumbai, Maharashtra 400069",
+      "po_date": "2026-06-02",
+      "line_items": [
+        {
+          "description": "Office Chair",
+          "quantity": 5,
+          "unit_price": 8785.75,
+          "line_total": 43928.75
+        },
+        {
+          "description": "HDMI Cable Pack",
+          "quantity": 7,
+          "unit_price": 2034.76,
+          "line_total": 14243.32
+        },
+        {
+          "description": "Desk Lamp",
+          "quantity": 9,
+          "unit_price": 1157.98,
+          "line_total": 10421.82
+        },
+        {
+          "description": "A4 Copier Paper Box",
+          "quantity": 4,
+          "unit_price": 3702.85,
+          "line_total": 14811.4
+        }
+      ],
+      "subtotal": 83405.29,
+      "tax": 15012.95,
+      "total": 98418.24,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0076",
+      "supplier": "MetroMart Business Supplies",
+      "vendor_address": "28 Vashi Sector 17, Navi Mumbai, Maharashtra 400703",
+      "po_date": "2026-05-17",
+      "line_items": [
+        {
+          "description": "Filing Cabinet",
+          "quantity": 1,
+          "unit_price": 7189.08,
+          "line_total": 7189.08
+        },
+        {
+          "description": "Power Backup UPS",
+          "quantity": 10,
+          "unit_price": 13837.17,
+          "line_total": 138371.7
+        },
+        {
+          "description": "Wireless Keyboard",
+          "quantity": 5,
+          "unit_price": 1476.84,
+          "line_total": 7384.2
+        }
+      ],
+      "subtotal": 152944.98,
+      "tax": 27530.1,
+      "total": 180475.08,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0077",
+      "supplier": "Crestline Electronics Pvt Ltd",
+      "vendor_address": "16 Whitefield Main Road, Bengaluru, Karnataka 560066",
+      "po_date": "2026-01-28",
+      "line_items": [
+        {
+          "description": "Conference Webcam",
+          "quantity": 5,
+          "unit_price": 7287.22,
+          "line_total": 36436.1
+        },
+        {
+          "description": "A4 Copier Paper Box",
+          "quantity": 9,
+          "unit_price": 3666.37,
+          "line_total": 32997.33
+        },
+        {
+          "description": "Network Switch 24-Port",
+          "quantity": 11,
+          "unit_price": 11966.0,
+          "line_total": 131626.0
+        },
+        {
+          "description": "Thermal Label Roll",
+          "quantity": 8,
+          "unit_price": 776.08,
+          "line_total": 6208.64
+        },
+        {
+          "description": "Barcode Scanner",
+          "quantity": 3,
+          "unit_price": 5871.6,
+          "line_total": 17614.8
+        }
+      ],
+      "subtotal": 224882.87,
+      "tax": 40478.92,
+      "total": 265361.79,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0078",
+      "supplier": "Apex Office Systems Pvt Ltd",
+      "vendor_address": "12 MG Road, Bengaluru, Karnataka 560001",
+      "po_date": "2026-06-09",
+      "line_items": [
+        {
+          "description": "Projector",
+          "quantity": 6,
+          "unit_price": 30847.08,
+          "line_total": 185082.48
+        },
+        {
+          "description": "Ethernet Cable Pack",
+          "quantity": 4,
+          "unit_price": 1600.3,
+          "line_total": 6401.2
+        },
+        {
+          "description": "Barcode Scanner",
+          "quantity": 12,
+          "unit_price": 6189.71,
+          "line_total": 74276.52
+        },
+        {
+          "description": "HDMI Cable Pack",
+          "quantity": 12,
+          "unit_price": 2117.56,
+          "line_total": 25410.72
+        }
+      ],
+      "subtotal": 291170.92,
+      "tax": 52410.77,
+      "total": 343581.69,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0079",
+      "supplier": "PrimeBuild Materials",
+      "vendor_address": "33 Civil Lines, Nagpur, Maharashtra 440001",
+      "po_date": "2026-08-11",
+      "line_items": [
+        {
+          "description": "Document Shredder",
+          "quantity": 12,
+          "unit_price": 7227.99,
+          "line_total": 86735.88
+        },
+        {
+          "description": "Laser Printer",
+          "quantity": 6,
+          "unit_price": 19068.86,
+          "line_total": 114413.16
+        },
+        {
+          "description": "27-inch Monitor",
+          "quantity": 6,
+          "unit_price": 15934.22,
+          "line_total": 95605.32
+        },
+        {
+          "description": "External SSD 1TB",
+          "quantity": 3,
+          "unit_price": 7698.99,
+          "line_total": 23096.97
+        },
+        {
+          "description": "Office Chair",
+          "quantity": 3,
+          "unit_price": 9531.82,
+          "line_total": 28595.46
+        }
+      ],
+      "subtotal": 348446.79,
+      "tax": 62720.42,
+      "total": 411167.21,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0080",
+      "supplier": "Orbit Data Systems Pvt Ltd",
+      "vendor_address": "5 Anna Salai, Chennai, Tamil Nadu 600002",
+      "po_date": "2026-06-29",
+      "line_items": [
+        {
+          "description": "Power Backup UPS",
+          "quantity": 10,
+          "unit_price": 12092.93,
+          "line_total": 120929.3
+        },
+        {
+          "description": "Desk Lamp",
+          "quantity": 10,
+          "unit_price": 1178.12,
+          "line_total": 11781.2
+        },
+        {
+          "description": "Office Chair",
+          "quantity": 11,
+          "unit_price": 9286.66,
+          "line_total": 102153.26
+        }
+      ],
+      "subtotal": 234863.76,
+      "tax": 42275.48,
+      "total": 277139.24,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0081",
+      "supplier": "BluePeak Technologies Pvt Ltd",
+      "vendor_address": "44 Hinjewadi Phase 1, Pune, Maharashtra 411057",
+      "po_date": "2026-01-27",
+      "line_items": [
+        {
+          "description": "Desk Lamp",
+          "quantity": 7,
+          "unit_price": 1272.54,
+          "line_total": 8907.78
+        },
+        {
+          "description": "Ethernet Cable Pack",
+          "quantity": 5,
+          "unit_price": 1764.05,
+          "line_total": 8820.25
+        },
+        {
+          "description": "A4 Copier Paper Box",
+          "quantity": 10,
+          "unit_price": 4034.17,
+          "line_total": 40341.7
+        }
+      ],
+      "subtotal": 58069.73,
+      "tax": 10452.55,
+      "total": 68522.28,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0082",
+      "supplier": "MetroMart Business Supplies",
+      "vendor_address": "28 Vashi Sector 17, Navi Mumbai, Maharashtra 400703",
+      "po_date": "2026-08-10",
+      "line_items": [
+        {
+          "description": "Projector",
+          "quantity": 2,
+          "unit_price": 29068.85,
+          "line_total": 58137.7
+        },
+        {
+          "description": "External SSD 1TB",
+          "quantity": 7,
+          "unit_price": 7001.98,
+          "line_total": 49013.86
+        },
+        {
+          "description": "Barcode Scanner",
+          "quantity": 12,
+          "unit_price": 6133.93,
+          "line_total": 73607.16
+        },
+        {
+          "description": "Power Backup UPS",
+          "quantity": 10,
+          "unit_price": 12225.82,
+          "line_total": 122258.2
+        },
+        {
+          "description": "Desk Lamp",
+          "quantity": 12,
+          "unit_price": 1191.21,
+          "line_total": 14294.52
+        }
+      ],
+      "subtotal": 317311.44,
+      "tax": 57116.06,
+      "total": 374427.5,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0083",
+      "supplier": "Crestline Electronics Pvt Ltd",
+      "vendor_address": "16 Whitefield Main Road, Bengaluru, Karnataka 560066",
+      "po_date": "2026-06-24",
+      "line_items": [
+        {
+          "description": "Ethernet Cable Pack",
+          "quantity": 7,
+          "unit_price": 1752.59,
+          "line_total": 12268.13
+        },
+        {
+          "description": "Barcode Scanner",
+          "quantity": 4,
+          "unit_price": 5725.88,
+          "line_total": 22903.52
+        },
+        {
+          "description": "A4 Copier Paper Box",
+          "quantity": 3,
+          "unit_price": 3962.66,
+          "line_total": 11887.98
+        },
+        {
+          "description": "27-inch Monitor",
+          "quantity": 1,
+          "unit_price": 17355.13,
+          "line_total": 17355.13
+        },
+        {
+          "description": "HDMI Cable Pack",
+          "quantity": 9,
+          "unit_price": 1989.33,
+          "line_total": 17903.97
+        }
+      ],
+      "subtotal": 82318.73,
+      "tax": 14817.37,
+      "total": 97136.1,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0084",
+      "supplier": "Crestline Electronics Pvt Ltd",
+      "vendor_address": "16 Whitefield Main Road, Bengaluru, Karnataka 560066",
+      "po_date": "2026-03-04",
+      "line_items": [
+        {
+          "description": "External SSD 1TB",
+          "quantity": 3,
+          "unit_price": 7944.76,
+          "line_total": 23834.28
+        },
+        {
+          "description": "Wireless Keyboard",
+          "quantity": 11,
+          "unit_price": 1440.43,
+          "line_total": 15844.73
+        },
+        {
+          "description": "Barcode Scanner",
+          "quantity": 6,
+          "unit_price": 6105.75,
+          "line_total": 36634.5
+        },
+        {
+          "description": "Desk Lamp",
+          "quantity": 2,
+          "unit_price": 1295.98,
+          "line_total": 2591.96
+        }
+      ],
+      "subtotal": 78905.47,
+      "tax": 14202.98,
+      "total": 93108.45,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0085",
+      "supplier": "BluePeak Technologies Pvt Ltd",
+      "vendor_address": "44 Hinjewadi Phase 1, Pune, Maharashtra 411057",
+      "po_date": "2026-05-28",
+      "line_items": [
+        {
+          "description": "Conference Webcam",
+          "quantity": 5,
+          "unit_price": 6480.88,
+          "line_total": 32404.4
+        },
+        {
+          "description": "HDMI Cable Pack",
+          "quantity": 10,
+          "unit_price": 2057.46,
+          "line_total": 20574.6
+        },
+        {
+          "description": "Power Backup UPS",
+          "quantity": 9,
+          "unit_price": 12012.78,
+          "line_total": 108115.02
+        },
+        {
+          "description": "27-inch Monitor",
+          "quantity": 12,
+          "unit_price": 16165.97,
+          "line_total": 193991.64
+        }
+      ],
+      "subtotal": 355085.66,
+      "tax": 63915.42,
+      "total": 419001.08,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0086",
+      "supplier": "MetroMart Business Supplies",
+      "vendor_address": "28 Vashi Sector 17, Navi Mumbai, Maharashtra 400703",
+      "po_date": "2026-01-06",
+      "line_items": [
+        {
+          "description": "HDMI Cable Pack",
+          "quantity": 5,
+          "unit_price": 2029.16,
+          "line_total": 10145.8
+        },
+        {
+          "description": "Barcode Scanner",
+          "quantity": 2,
+          "unit_price": 5847.07,
+          "line_total": 11694.14
+        }
+      ],
+      "subtotal": 21839.94,
+      "tax": 3931.19,
+      "total": 25771.13,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0087",
+      "supplier": "MetroMart Business Supplies",
+      "vendor_address": "28 Vashi Sector 17, Navi Mumbai, Maharashtra 400703",
+      "po_date": "2026-06-27",
+      "line_items": [
+        {
+          "description": "Office Chair",
+          "quantity": 3,
+          "unit_price": 8884.9,
+          "line_total": 26654.7
+        },
+        {
+          "description": "Ethernet Cable Pack",
+          "quantity": 2,
+          "unit_price": 1570.29,
+          "line_total": 3140.58
+        },
+        {
+          "description": "27-inch Monitor",
+          "quantity": 2,
+          "unit_price": 16590.86,
+          "line_total": 33181.72
+        },
+        {
+          "description": "Laser Printer",
+          "quantity": 8,
+          "unit_price": 17963.23,
+          "line_total": 143705.84
+        },
+        {
+          "description": "HDMI Cable Pack",
+          "quantity": 5,
+          "unit_price": 2029.96,
+          "line_total": 10149.8
+        }
+      ],
+      "subtotal": 216832.64,
+      "tax": 39029.88,
+      "total": 255862.52,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0088",
+      "supplier": "BluePeak Technologies Pvt Ltd",
+      "vendor_address": "44 Hinjewadi Phase 1, Pune, Maharashtra 411057",
+      "po_date": "2026-03-20",
+      "line_items": [
+        {
+          "description": "Network Switch 24-Port",
+          "quantity": 9,
+          "unit_price": 11252.77,
+          "line_total": 101274.93
+        },
+        {
+          "description": "Ethernet Cable Pack",
+          "quantity": 6,
+          "unit_price": 1729.04,
+          "line_total": 10374.24
+        },
+        {
+          "description": "Conference Webcam",
+          "quantity": 12,
+          "unit_price": 6529.99,
+          "line_total": 78359.88
+        },
+        {
+          "description": "Laser Printer",
+          "quantity": 3,
+          "unit_price": 18151.55,
+          "line_total": 54454.65
+        }
+      ],
+      "subtotal": 244463.7,
+      "tax": 44003.47,
+      "total": 288467.17,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0089",
+      "supplier": "Nova Industrial Supplies",
+      "vendor_address": "18 Andheri East, Mumbai, Maharashtra 400069",
+      "po_date": "2026-05-17",
+      "line_items": [
+        {
+          "description": "Ethernet Cable Pack",
+          "quantity": 4,
+          "unit_price": 1720.28,
+          "line_total": 6881.12
+        },
+        {
+          "description": "Barcode Scanner",
+          "quantity": 9,
+          "unit_price": 5805.39,
+          "line_total": 52248.51
+        }
+      ],
+      "subtotal": 59129.63,
+      "tax": 10643.33,
+      "total": 69772.96,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0090",
+      "supplier": "Apex Office Systems Pvt Ltd",
+      "vendor_address": "12 MG Road, Bengaluru, Karnataka 560001",
+      "po_date": "2026-05-23",
+      "line_items": [
+        {
+          "description": "Projector",
+          "quantity": 10,
+          "unit_price": 29407.7,
+          "line_total": 294077.0
+        },
+        {
+          "description": "External SSD 1TB",
+          "quantity": 3,
+          "unit_price": 7822.13,
+          "line_total": 23466.39
+        }
+      ],
+      "subtotal": 317543.39,
+      "tax": 57157.81,
+      "total": 374701.2,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0091",
+      "supplier": "PrimeBuild Materials",
+      "vendor_address": "33 Civil Lines, Nagpur, Maharashtra 440001",
+      "po_date": "2026-07-10",
+      "line_items": [
+        {
+          "description": "Projector",
+          "quantity": 6,
+          "unit_price": 29690.4,
+          "line_total": 178142.4
+        },
+        {
+          "description": "Whiteboard",
+          "quantity": 1,
+          "unit_price": 5446.4,
+          "line_total": 5446.4
+        }
+      ],
+      "subtotal": 183588.8,
+      "tax": 33045.98,
+      "total": 216634.78,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0092",
+      "supplier": "Nova Industrial Supplies",
+      "vendor_address": "18 Andheri East, Mumbai, Maharashtra 400069",
+      "po_date": "2026-07-18",
+      "line_items": [
+        {
+          "description": "Office Chair",
+          "quantity": 10,
+          "unit_price": 8610.56,
+          "line_total": 86105.6
+        },
+        {
+          "description": "Desk Lamp",
+          "quantity": 6,
+          "unit_price": 1241.53,
+          "line_total": 7449.18
+        },
+        {
+          "description": "Wireless Keyboard",
+          "quantity": 2,
+          "unit_price": 1335.45,
+          "line_total": 2670.9
+        }
+      ],
+      "subtotal": 96225.68,
+      "tax": 17320.62,
+      "total": 113546.3,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0093",
+      "supplier": "GreenGrid Solutions Pvt Ltd",
+      "vendor_address": "7 Salt Lake Sector V, Kolkata, West Bengal 700091",
+      "po_date": "2026-02-02",
+      "line_items": [
+        {
+          "description": "Projector",
+          "quantity": 8,
+          "unit_price": 29662.06,
+          "line_total": 237296.48
+        },
+        {
+          "description": "Ethernet Cable Pack",
+          "quantity": 1,
+          "unit_price": 1526.6,
+          "line_total": 1526.6
+        },
+        {
+          "description": "External SSD 1TB",
+          "quantity": 9,
+          "unit_price": 7525.84,
+          "line_total": 67732.56
+        },
+        {
+          "description": "Whiteboard",
+          "quantity": 7,
+          "unit_price": 5439.01,
+          "line_total": 38073.07
+        }
+      ],
+      "subtotal": 344628.71,
+      "tax": 62033.17,
+      "total": 406661.88,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0094",
+      "supplier": "BluePeak Technologies Pvt Ltd",
+      "vendor_address": "44 Hinjewadi Phase 1, Pune, Maharashtra 411057",
+      "po_date": "2026-01-07",
+      "line_items": [
+        {
+          "description": "Network Switch 24-Port",
+          "quantity": 1,
+          "unit_price": 10476.39,
+          "line_total": 10476.39
+        },
+        {
+          "description": "Office Chair",
+          "quantity": 1,
+          "unit_price": 9150.62,
+          "line_total": 9150.62
+        },
+        {
+          "description": "Power Backup UPS",
+          "quantity": 7,
+          "unit_price": 13698.86,
+          "line_total": 95892.02
+        },
+        {
+          "description": "USB-C Docking Station",
+          "quantity": 7,
+          "unit_price": 6680.68,
+          "line_total": 46764.76
+        },
+        {
+          "description": "Filing Cabinet",
+          "quantity": 2,
+          "unit_price": 6619.3,
+          "line_total": 13238.6
+        }
+      ],
+      "subtotal": 175522.39,
+      "tax": 31594.03,
+      "total": 207116.42,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0095",
+      "supplier": "Apex Office Systems Pvt Ltd",
+      "vendor_address": "12 MG Road, Bengaluru, Karnataka 560001",
+      "po_date": "2026-01-24",
+      "line_items": [
+        {
+          "description": "Network Switch 24-Port",
+          "quantity": 9,
+          "unit_price": 11225.28,
+          "line_total": 101027.52
+        },
+        {
+          "description": "Wireless Keyboard",
+          "quantity": 6,
+          "unit_price": 1461.24,
+          "line_total": 8767.44
+        },
+        {
+          "description": "External SSD 1TB",
+          "quantity": 10,
+          "unit_price": 7493.01,
+          "line_total": 74930.1
+        }
+      ],
+      "subtotal": 184725.06,
+      "tax": 33250.51,
+      "total": 217975.57,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0096",
+      "supplier": "MetroMart Business Supplies",
+      "vendor_address": "28 Vashi Sector 17, Navi Mumbai, Maharashtra 400703",
+      "po_date": "2026-04-10",
+      "line_items": [
+        {
+          "description": "Conference Webcam",
+          "quantity": 3,
+          "unit_price": 6809.84,
+          "line_total": 20429.52
+        },
+        {
+          "description": "Barcode Scanner",
+          "quantity": 9,
+          "unit_price": 5806.55,
+          "line_total": 52258.95
+        },
+        {
+          "description": "Office Chair",
+          "quantity": 10,
+          "unit_price": 9803.39,
+          "line_total": 98033.9
+        },
+        {
+          "description": "External SSD 1TB",
+          "quantity": 2,
+          "unit_price": 7801.79,
+          "line_total": 15603.58
+        }
+      ],
+      "subtotal": 186325.95,
+      "tax": 33538.67,
+      "total": 219864.62,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0097",
+      "supplier": "BluePeak Technologies Pvt Ltd",
+      "vendor_address": "44 Hinjewadi Phase 1, Pune, Maharashtra 411057",
+      "po_date": "2026-02-12",
+      "line_items": [
+        {
+          "description": "Barcode Scanner",
+          "quantity": 9,
+          "unit_price": 5831.14,
+          "line_total": 52480.26
+        },
+        {
+          "description": "USB-C Docking Station",
+          "quantity": 12,
+          "unit_price": 6688.5,
+          "line_total": 80262.0
+        },
+        {
+          "description": "Desk Lamp",
+          "quantity": 11,
+          "unit_price": 1285.93,
+          "line_total": 14145.23
+        }
+      ],
+      "subtotal": 146887.49,
+      "tax": 26439.75,
+      "total": 173327.24,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0098",
+      "supplier": "Apex Office Systems Pvt Ltd",
+      "vendor_address": "12 MG Road, Bengaluru, Karnataka 560001",
+      "po_date": "2026-03-02",
+      "line_items": [
+        {
+          "description": "Document Shredder",
+          "quantity": 12,
+          "unit_price": 7310.92,
+          "line_total": 87731.04
+        },
+        {
+          "description": "External SSD 1TB",
+          "quantity": 6,
+          "unit_price": 7020.21,
+          "line_total": 42121.26
+        },
+        {
+          "description": "Office Chair",
+          "quantity": 11,
+          "unit_price": 8524.74,
+          "line_total": 93772.14
+        },
+        {
+          "description": "Ethernet Cable Pack",
+          "quantity": 1,
+          "unit_price": 1618.18,
+          "line_total": 1618.18
+        }
+      ],
+      "subtotal": 225242.62,
+      "tax": 40543.67,
+      "total": 265786.29,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0099",
+      "supplier": "Nova Industrial Supplies",
+      "vendor_address": "18 Andheri East, Mumbai, Maharashtra 400069",
+      "po_date": "2026-07-06",
+      "line_items": [
+        {
+          "description": "Thermal Label Roll",
+          "quantity": 11,
+          "unit_price": 825.37,
+          "line_total": 9079.07
+        },
+        {
+          "description": "USB-C Docking Station",
+          "quantity": 12,
+          "unit_price": 6742.07,
+          "line_total": 80904.84
+        },
+        {
+          "description": "Barcode Scanner",
+          "quantity": 2,
+          "unit_price": 5375.68,
+          "line_total": 10751.36
+        }
+      ],
+      "subtotal": 100735.27,
+      "tax": 18132.35,
+      "total": 118867.62,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0100",
+      "supplier": "Nova Industrial Supplies",
+      "vendor_address": "18 Andheri East, Mumbai, Maharashtra 400069",
+      "po_date": "2026-05-01",
+      "line_items": [
+        {
+          "description": "Thermal Label Roll",
+          "quantity": 9,
+          "unit_price": 851.04,
+          "line_total": 7659.36
+        },
+        {
+          "description": "Whiteboard",
+          "quantity": 3,
+          "unit_price": 5250.31,
+          "line_total": 15750.93
+        },
+        {
+          "description": "Wireless Keyboard",
+          "quantity": 5,
+          "unit_price": 1412.51,
+          "line_total": 7062.55
+        },
+        {
+          "description": "Office Chair",
+          "quantity": 2,
+          "unit_price": 8706.03,
+          "line_total": 17412.06
+        },
+        {
+          "description": "USB-C Docking Station",
+          "quantity": 6,
+          "unit_price": 6618.72,
+          "line_total": 39712.32
+        }
+      ],
+      "subtotal": 87597.22,
+      "tax": 15767.5,
+      "total": 103364.72,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0101",
+      "supplier": "Sunrise Packaging Industries",
+      "vendor_address": "91 Bhosari MIDC, Pune, Maharashtra 411026",
+      "po_date": "2026-02-16",
+      "line_items": [
+        {
+          "description": "Laptop Stand",
+          "quantity": 7,
+          "unit_price": 2337.2,
+          "line_total": 16360.4
+        },
+        {
+          "description": "Wireless Keyboard",
+          "quantity": 8,
+          "unit_price": 1506.93,
+          "line_total": 12055.44
+        }
+      ],
+      "subtotal": 28415.84,
+      "tax": 5114.85,
+      "total": 33530.69,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0102",
+      "supplier": "Nova Industrial Supplies",
+      "vendor_address": "18 Andheri East, Mumbai, Maharashtra 400069",
+      "po_date": "2026-01-20",
+      "line_items": [
+        {
+          "description": "Barcode Scanner",
+          "quantity": 6,
+          "unit_price": 5885.18,
+          "line_total": 35311.08
+        },
+        {
+          "description": "Filing Cabinet",
+          "quantity": 4,
+          "unit_price": 6434.84,
+          "line_total": 25739.36
+        },
+        {
+          "description": "A4 Copier Paper Box",
+          "quantity": 12,
+          "unit_price": 3792.18,
+          "line_total": 45506.16
+        }
+      ],
+      "subtotal": 106556.6,
+      "tax": 19180.19,
+      "total": 125736.79,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0103",
+      "supplier": "MetroMart Business Supplies",
+      "vendor_address": "28 Vashi Sector 17, Navi Mumbai, Maharashtra 400703",
+      "po_date": "2026-08-07",
+      "line_items": [
+        {
+          "description": "HDMI Cable Pack",
+          "quantity": 8,
+          "unit_price": 2103.35,
+          "line_total": 16826.8
+        },
+        {
+          "description": "Network Switch 24-Port",
+          "quantity": 10,
+          "unit_price": 11273.67,
+          "line_total": 112736.7
+        },
+        {
+          "description": "Office Chair",
+          "quantity": 9,
+          "unit_price": 8754.06,
+          "line_total": 78786.54
+        },
+        {
+          "description": "Conference Webcam",
+          "quantity": 9,
+          "unit_price": 6871.5,
+          "line_total": 61843.5
+        }
+      ],
+      "subtotal": 270193.54,
+      "tax": 48634.84,
+      "total": 318828.38,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0104",
+      "supplier": "PrimeBuild Materials",
+      "vendor_address": "33 Civil Lines, Nagpur, Maharashtra 440001",
+      "po_date": "2026-07-21",
+      "line_items": [
+        {
+          "description": "27-inch Monitor",
+          "quantity": 12,
+          "unit_price": 16015.66,
+          "line_total": 192187.92
+        },
+        {
+          "description": "Ethernet Cable Pack",
+          "quantity": 8,
+          "unit_price": 1686.58,
+          "line_total": 13492.64
+        },
+        {
+          "description": "A4 Copier Paper Box",
+          "quantity": 1,
+          "unit_price": 3791.42,
+          "line_total": 3791.42
+        },
+        {
+          "description": "External SSD 1TB",
+          "quantity": 7,
+          "unit_price": 7534.35,
+          "line_total": 52740.45
+        },
+        {
+          "description": "Barcode Scanner",
+          "quantity": 12,
+          "unit_price": 6238.65,
+          "line_total": 74863.8
+        }
+      ],
+      "subtotal": 337076.23,
+      "tax": 60673.72,
+      "total": 397749.95,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0105",
+      "supplier": "Orbit Data Systems Pvt Ltd",
+      "vendor_address": "5 Anna Salai, Chennai, Tamil Nadu 600002",
+      "po_date": "2026-07-18",
+      "line_items": [
+        {
+          "description": "Projector",
+          "quantity": 12,
+          "unit_price": 29288.79,
+          "line_total": 351465.48
+        },
+        {
+          "description": "Laptop Stand",
+          "quantity": 11,
+          "unit_price": 2326.41,
+          "line_total": 25590.51
+        },
+        {
+          "description": "Thermal Label Roll",
+          "quantity": 6,
+          "unit_price": 822.0,
+          "line_total": 4932.0
+        },
+        {
+          "description": "Power Backup UPS",
+          "quantity": 4,
+          "unit_price": 12800.32,
+          "line_total": 51201.28
+        }
+      ],
+      "subtotal": 433189.27,
+      "tax": 77974.07,
+      "total": 511163.34,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0106",
+      "supplier": "Nova Industrial Supplies",
+      "vendor_address": "18 Andheri East, Mumbai, Maharashtra 400069",
+      "po_date": "2026-04-24",
+      "line_items": [
+        {
+          "description": "Wireless Keyboard",
+          "quantity": 7,
+          "unit_price": 1343.94,
+          "line_total": 9407.58
+        },
+        {
+          "description": "Projector",
+          "quantity": 3,
+          "unit_price": 26328.81,
+          "line_total": 78986.43
+        },
+        {
+          "description": "Barcode Scanner",
+          "quantity": 10,
+          "unit_price": 5886.72,
+          "line_total": 58867.2
+        },
+        {
+          "description": "Office Chair",
+          "quantity": 1,
+          "unit_price": 9357.54,
+          "line_total": 9357.54
+        }
+      ],
+      "subtotal": 156618.75,
+      "tax": 28191.38,
+      "total": 184810.13,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0107",
+      "supplier": "Nova Industrial Supplies",
+      "vendor_address": "18 Andheri East, Mumbai, Maharashtra 400069",
+      "po_date": "2026-01-11",
+      "line_items": [
+        {
+          "description": "Laptop Stand",
+          "quantity": 12,
+          "unit_price": 2508.39,
+          "line_total": 30100.68
+        },
+        {
+          "description": "Document Shredder",
+          "quantity": 3,
+          "unit_price": 8109.16,
+          "line_total": 24327.48
+        },
+        {
+          "description": "Thermal Label Roll",
+          "quantity": 2,
+          "unit_price": 851.79,
+          "line_total": 1703.58
+        },
+        {
+          "description": "Whiteboard",
+          "quantity": 1,
+          "unit_price": 5727.18,
+          "line_total": 5727.18
+        },
+        {
+          "description": "HDMI Cable Pack",
+          "quantity": 1,
+          "unit_price": 2010.6,
+          "line_total": 2010.6
+        }
+      ],
+      "subtotal": 63869.52,
+      "tax": 11496.51,
+      "total": 75366.03,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0108",
+      "supplier": "MetroMart Business Supplies",
+      "vendor_address": "28 Vashi Sector 17, Navi Mumbai, Maharashtra 400703",
+      "po_date": "2026-04-22",
+      "line_items": [
+        {
+          "description": "Conference Webcam",
+          "quantity": 3,
+          "unit_price": 7039.31,
+          "line_total": 21117.93
+        },
+        {
+          "description": "Filing Cabinet",
+          "quantity": 11,
+          "unit_price": 6933.98,
+          "line_total": 76273.78
+        },
+        {
+          "description": "Power Backup UPS",
+          "quantity": 10,
+          "unit_price": 13815.6,
+          "line_total": 138156.0
+        },
+        {
+          "description": "Laptop Stand",
+          "quantity": 6,
+          "unit_price": 2510.62,
+          "line_total": 15063.72
+        }
+      ],
+      "subtotal": 250611.43,
+      "tax": 45110.06,
+      "total": 295721.49,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0109",
+      "supplier": "PrimeBuild Materials",
+      "vendor_address": "33 Civil Lines, Nagpur, Maharashtra 440001",
+      "po_date": "2026-05-18",
+      "line_items": [
+        {
+          "description": "Conference Webcam",
+          "quantity": 4,
+          "unit_price": 6690.92,
+          "line_total": 26763.68
+        },
+        {
+          "description": "Power Backup UPS",
+          "quantity": 11,
+          "unit_price": 13611.68,
+          "line_total": 149728.48
+        },
+        {
+          "description": "External SSD 1TB",
+          "quantity": 5,
+          "unit_price": 6821.43,
+          "line_total": 34107.15
+        },
+        {
+          "description": "Laser Printer",
+          "quantity": 10,
+          "unit_price": 19745.18,
+          "line_total": 197451.8
+        }
+      ],
+      "subtotal": 408051.11,
+      "tax": 73449.2,
+      "total": 481500.31,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0110",
+      "supplier": "MetroMart Business Supplies",
+      "vendor_address": "28 Vashi Sector 17, Navi Mumbai, Maharashtra 400703",
+      "po_date": "2026-02-16",
+      "line_items": [
+        {
+          "description": "Whiteboard",
+          "quantity": 6,
+          "unit_price": 5759.3,
+          "line_total": 34555.8
+        },
+        {
+          "description": "Office Chair",
+          "quantity": 7,
+          "unit_price": 9928.33,
+          "line_total": 69498.31
+        },
+        {
+          "description": "Barcode Scanner",
+          "quantity": 8,
+          "unit_price": 5977.38,
+          "line_total": 47819.04
+        },
+        {
+          "description": "Laptop Stand",
+          "quantity": 10,
+          "unit_price": 2431.76,
+          "line_total": 24317.6
+        },
+        {
+          "description": "Ethernet Cable Pack",
+          "quantity": 8,
+          "unit_price": 1736.71,
+          "line_total": 13893.68
+        }
+      ],
+      "subtotal": 190084.43,
+      "tax": 34215.2,
+      "total": 224299.63,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0111",
+      "supplier": "Vertex Cloud Services",
+      "vendor_address": "22 Hitech City, Hyderabad, Telangana 500081",
+      "po_date": "2026-07-10",
+      "line_items": [
+        {
+          "description": "Whiteboard",
+          "quantity": 4,
+          "unit_price": 5130.04,
+          "line_total": 20520.16
+        },
+        {
+          "description": "A4 Copier Paper Box",
+          "quantity": 6,
+          "unit_price": 3971.72,
+          "line_total": 23830.32
+        },
+        {
+          "description": "Laser Printer",
+          "quantity": 10,
+          "unit_price": 19519.24,
+          "line_total": 195192.4
+        }
+      ],
+      "subtotal": 239542.88,
+      "tax": 43117.72,
+      "total": 282660.6,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0112",
+      "supplier": "GreenGrid Solutions Pvt Ltd",
+      "vendor_address": "7 Salt Lake Sector V, Kolkata, West Bengal 700091",
+      "po_date": "2026-06-28",
+      "line_items": [
+        {
+          "description": "HDMI Cable Pack",
+          "quantity": 3,
+          "unit_price": 2075.93,
+          "line_total": 6227.79
+        },
+        {
+          "description": "Projector",
+          "quantity": 2,
+          "unit_price": 29130.32,
+          "line_total": 58260.64
+        },
+        {
+          "description": "Laptop Stand",
+          "quantity": 10,
+          "unit_price": 2459.32,
+          "line_total": 24593.2
+        },
+        {
+          "description": "Desk Lamp",
+          "quantity": 4,
+          "unit_price": 1248.74,
+          "line_total": 4994.96
+        }
+      ],
+      "subtotal": 94076.59,
+      "tax": 16933.79,
+      "total": 111010.38,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0113",
+      "supplier": "Vertex Cloud Services",
+      "vendor_address": "22 Hitech City, Hyderabad, Telangana 500081",
+      "po_date": "2026-04-13",
+      "line_items": [
+        {
+          "description": "A4 Copier Paper Box",
+          "quantity": 7,
+          "unit_price": 3600.8,
+          "line_total": 25205.6
+        },
+        {
+          "description": "Power Backup UPS",
+          "quantity": 7,
+          "unit_price": 13230.65,
+          "line_total": 92614.55
+        },
+        {
+          "description": "HDMI Cable Pack",
+          "quantity": 9,
+          "unit_price": 2217.68,
+          "line_total": 19959.12
+        }
+      ],
+      "subtotal": 137779.27,
+      "tax": 24800.27,
+      "total": 162579.54,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0114",
+      "supplier": "GreenGrid Solutions Pvt Ltd",
+      "vendor_address": "7 Salt Lake Sector V, Kolkata, West Bengal 700091",
+      "po_date": "2026-06-11",
+      "line_items": [
+        {
+          "description": "Office Chair",
+          "quantity": 12,
+          "unit_price": 9213.78,
+          "line_total": 110565.36
+        },
+        {
+          "description": "27-inch Monitor",
+          "quantity": 6,
+          "unit_price": 16220.78,
+          "line_total": 97324.68
+        },
+        {
+          "description": "Wireless Keyboard",
+          "quantity": 11,
+          "unit_price": 1546.78,
+          "line_total": 17014.58
+        },
+        {
+          "description": "A4 Copier Paper Box",
+          "quantity": 2,
+          "unit_price": 3647.55,
+          "line_total": 7295.1
+        }
+      ],
+      "subtotal": 232199.72,
+      "tax": 41795.95,
+      "total": 273995.67,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0115",
+      "supplier": "PrimeBuild Materials",
+      "vendor_address": "33 Civil Lines, Nagpur, Maharashtra 440001",
+      "po_date": "2026-02-15",
+      "line_items": [
+        {
+          "description": "Document Shredder",
+          "quantity": 6,
+          "unit_price": 7909.83,
+          "line_total": 47458.98
+        },
+        {
+          "description": "Barcode Scanner",
+          "quantity": 2,
+          "unit_price": 6012.65,
+          "line_total": 12025.3
+        },
+        {
+          "description": "USB-C Docking Station",
+          "quantity": 8,
+          "unit_price": 6276.89,
+          "line_total": 50215.12
+        },
+        {
+          "description": "Conference Webcam",
+          "quantity": 11,
+          "unit_price": 6530.85,
+          "line_total": 71839.35
+        },
+        {
+          "description": "Power Backup UPS",
+          "quantity": 5,
+          "unit_price": 12325.94,
+          "line_total": 61629.7
+        }
+      ],
+      "subtotal": 243168.45,
+      "tax": 43770.32,
+      "total": 286938.77,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0116",
+      "supplier": "Vertex Cloud Services",
+      "vendor_address": "22 Hitech City, Hyderabad, Telangana 500081",
+      "po_date": "2026-04-25",
+      "line_items": [
+        {
+          "description": "Filing Cabinet",
+          "quantity": 11,
+          "unit_price": 6910.49,
+          "line_total": 76015.39
+        },
+        {
+          "description": "Office Chair",
+          "quantity": 2,
+          "unit_price": 9035.2,
+          "line_total": 18070.4
+        },
+        {
+          "description": "USB-C Docking Station",
+          "quantity": 12,
+          "unit_price": 6671.37,
+          "line_total": 80056.44
+        },
+        {
+          "description": "A4 Copier Paper Box",
+          "quantity": 3,
+          "unit_price": 3758.8,
+          "line_total": 11276.4
+        },
+        {
+          "description": "Conference Webcam",
+          "quantity": 3,
+          "unit_price": 6821.17,
+          "line_total": 20463.51
+        }
+      ],
+      "subtotal": 205882.14,
+      "tax": 37058.79,
+      "total": 242940.93,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0117",
+      "supplier": "Apex Office Systems Pvt Ltd",
+      "vendor_address": "12 MG Road, Bengaluru, Karnataka 560001",
+      "po_date": "2026-05-22",
+      "line_items": [
+        {
+          "description": "A4 Copier Paper Box",
+          "quantity": 3,
+          "unit_price": 3646.06,
+          "line_total": 10938.18
+        },
+        {
+          "description": "Whiteboard",
+          "quantity": 12,
+          "unit_price": 4998.92,
+          "line_total": 59987.04
+        }
+      ],
+      "subtotal": 70925.22,
+      "tax": 12766.54,
+      "total": 83691.76,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0118",
+      "supplier": "PrimeBuild Materials",
+      "vendor_address": "33 Civil Lines, Nagpur, Maharashtra 440001",
+      "po_date": "2026-03-22",
+      "line_items": [
+        {
+          "description": "USB-C Docking Station",
+          "quantity": 1,
+          "unit_price": 6262.61,
+          "line_total": 6262.61
+        },
+        {
+          "description": "Desk Lamp",
+          "quantity": 6,
+          "unit_price": 1276.92,
+          "line_total": 7661.52
+        },
+        {
+          "description": "Barcode Scanner",
+          "quantity": 10,
+          "unit_price": 6079.75,
+          "line_total": 60797.5
+        }
+      ],
+      "subtotal": 74721.63,
+      "tax": 13449.89,
+      "total": 88171.52,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0119",
+      "supplier": "Crestline Electronics Pvt Ltd",
+      "vendor_address": "16 Whitefield Main Road, Bengaluru, Karnataka 560066",
+      "po_date": "2026-07-18",
+      "line_items": [
+        {
+          "description": "HDMI Cable Pack",
+          "quantity": 5,
+          "unit_price": 2229.7,
+          "line_total": 11148.5
+        },
+        {
+          "description": "Document Shredder",
+          "quantity": 1,
+          "unit_price": 7515.37,
+          "line_total": 7515.37
+        },
+        {
+          "description": "Laser Printer",
+          "quantity": 4,
+          "unit_price": 19123.86,
+          "line_total": 76495.44
+        },
+        {
+          "description": "Conference Webcam",
+          "quantity": 3,
+          "unit_price": 7078.81,
+          "line_total": 21236.43
+        }
+      ],
+      "subtotal": 116395.74,
+      "tax": 20951.23,
+      "total": 137346.97,
+      "description": "Synthetic purchase order for evaluation"
+    },
+    {
+      "po_number": "PO-0120",
+      "supplier": "GreenGrid Solutions Pvt Ltd",
+      "vendor_address": "7 Salt Lake Sector V, Kolkata, West Bengal 700091",
+      "po_date": "2026-02-06",
+      "line_items": [
+        {
+          "description": "Office Chair",
+          "quantity": 11,
+          "unit_price": 9821.3,
+          "line_total": 108034.3
+        },
+        {
+          "description": "Document Shredder",
+          "quantity": 9,
+          "unit_price": 8414.54,
+          "line_total": 75730.86
+        }
+      ],
+      "subtotal": 183765.16,
+      "tax": 33077.73,
+      "total": 216842.89,
+      "description": "Synthetic purchase order for evaluation"
+    }
+  ]
+}

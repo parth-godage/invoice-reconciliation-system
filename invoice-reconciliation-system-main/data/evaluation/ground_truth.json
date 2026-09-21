@@ -1,0 +1,1112 @@
+{
+  "eval_001.pdf": {
+    "expected_po": null,
+    "expected_action": "REVIEW",
+    "scenario": "missing_po",
+    "expected_discrepancies": [
+      "missing_po_reference"
+    ],
+    "source_po": "PO-0001",
+    "invoice_number": "INV-EVAL-0001"
+  },
+  "eval_002.pdf": {
+    "expected_po": "PO-0002",
+    "expected_action": "REVIEW",
+    "scenario": "quantity_mismatch",
+    "expected_discrepancies": [
+      "quantity_mismatch"
+    ],
+    "source_po": "PO-0002",
+    "invoice_number": "INV-EVAL-0002"
+  },
+  "eval_003.pdf": {
+    "expected_po": "PO-0003",
+    "expected_action": "APPROVE",
+    "scenario": "exact_match",
+    "expected_discrepancies": [],
+    "source_po": "PO-0003",
+    "invoice_number": "INV-EVAL-0003"
+  },
+  "eval_004.pdf": {
+    "expected_po": "PO-0004",
+    "expected_action": "APPROVE",
+    "scenario": "exact_match",
+    "expected_discrepancies": [],
+    "source_po": "PO-0004",
+    "invoice_number": "INV-EVAL-0004"
+  },
+  "eval_005.pdf": {
+    "expected_po": "PO-0005",
+    "expected_action": "REVIEW",
+    "scenario": "extra_line_item",
+    "expected_discrepancies": [
+      "extra_line_item"
+    ],
+    "source_po": "PO-0005",
+    "invoice_number": "INV-EVAL-0005"
+  },
+  "eval_006.pdf": {
+    "expected_po": "PO-0006",
+    "expected_action": "REVIEW",
+    "scenario": "quantity_mismatch",
+    "expected_discrepancies": [
+      "quantity_mismatch"
+    ],
+    "source_po": "PO-0006",
+    "invoice_number": "INV-EVAL-0006"
+  },
+  "eval_007.pdf": {
+    "expected_po": "PO-0007",
+    "expected_action": "REVIEW",
+    "scenario": "price_mismatch",
+    "expected_discrepancies": [
+      "price_mismatch"
+    ],
+    "source_po": "PO-0007",
+    "invoice_number": "INV-EVAL-0007"
+  },
+  "eval_008.pdf": {
+    "expected_po": "PO-0008",
+    "expected_action": "REVIEW",
+    "scenario": "price_mismatch",
+    "expected_discrepancies": [
+      "price_mismatch"
+    ],
+    "source_po": "PO-0008",
+    "invoice_number": "INV-EVAL-0008"
+  },
+  "eval_009.pdf": {
+    "expected_po": "PO-0009",
+    "expected_action": "APPROVE",
+    "scenario": "difficult_document",
+    "expected_discrepancies": [],
+    "source_po": "PO-0009",
+    "invoice_number": "INV-EVAL-0009"
+  },
+  "eval_010.pdf": {
+    "expected_po": "PO-0010",
+    "expected_action": "REVIEW",
+    "scenario": "price_mismatch",
+    "expected_discrepancies": [
+      "price_mismatch"
+    ],
+    "source_po": "PO-0010",
+    "invoice_number": "INV-EVAL-0010"
+  },
+  "eval_011.pdf": {
+    "expected_po": "PO-0011",
+    "expected_action": "REVIEW",
+    "scenario": "quantity_mismatch",
+    "expected_discrepancies": [
+      "quantity_mismatch"
+    ],
+    "source_po": "PO-0011",
+    "invoice_number": "INV-EVAL-0011"
+  },
+  "eval_012.pdf": {
+    "expected_po": "PO-0012",
+    "expected_action": "APPROVE",
+    "scenario": "exact_match",
+    "expected_discrepancies": [],
+    "source_po": "PO-0012",
+    "invoice_number": "INV-EVAL-0012"
+  },
+  "eval_013.pdf": {
+    "expected_po": "PO-0013",
+    "expected_action": "REVIEW",
+    "scenario": "price_mismatch",
+    "expected_discrepancies": [
+      "price_mismatch"
+    ],
+    "source_po": "PO-0013",
+    "invoice_number": "INV-EVAL-0013"
+  },
+  "eval_014.pdf": {
+    "expected_po": "PO-0014",
+    "expected_action": "REVIEW",
+    "scenario": "extra_line_item",
+    "expected_discrepancies": [
+      "extra_line_item"
+    ],
+    "source_po": "PO-0014",
+    "invoice_number": "INV-EVAL-0014"
+  },
+  "eval_015.pdf": {
+    "expected_po": "PO-0015",
+    "expected_action": "REVIEW",
+    "scenario": "quantity_mismatch",
+    "expected_discrepancies": [
+      "quantity_mismatch"
+    ],
+    "source_po": "PO-0015",
+    "invoice_number": "INV-EVAL-0015"
+  },
+  "eval_016.pdf": {
+    "expected_po": "PO-0016",
+    "expected_action": "REVIEW",
+    "scenario": "quantity_mismatch",
+    "expected_discrepancies": [
+      "quantity_mismatch"
+    ],
+    "source_po": "PO-0016",
+    "invoice_number": "INV-EVAL-0016"
+  },
+  "eval_017.pdf": {
+    "expected_po": "PO-0017",
+    "expected_action": "APPROVE",
+    "scenario": "exact_match",
+    "expected_discrepancies": [],
+    "source_po": "PO-0017",
+    "invoice_number": "INV-EVAL-0017"
+  },
+  "eval_018.pdf": {
+    "expected_po": "PO-0018",
+    "expected_action": "APPROVE",
+    "scenario": "difficult_document",
+    "expected_discrepancies": [],
+    "source_po": "PO-0018",
+    "invoice_number": "INV-EVAL-0018"
+  },
+  "eval_019.pdf": {
+    "expected_po": "PO-0019",
+    "expected_action": "REVIEW",
+    "scenario": "price_mismatch",
+    "expected_discrepancies": [
+      "price_mismatch"
+    ],
+    "source_po": "PO-0019",
+    "invoice_number": "INV-EVAL-0019"
+  },
+  "eval_020.pdf": {
+    "expected_po": "PO-0020",
+    "expected_action": "APPROVE",
+    "scenario": "exact_match",
+    "expected_discrepancies": [],
+    "source_po": "PO-0020",
+    "invoice_number": "INV-EVAL-0020"
+  },
+  "eval_021.pdf": {
+    "expected_po": "PO-0021",
+    "expected_action": "APPROVE",
+    "scenario": "exact_match",
+    "expected_discrepancies": [],
+    "source_po": "PO-0021",
+    "invoice_number": "INV-EVAL-0021"
+  },
+  "eval_022.pdf": {
+    "expected_po": "PO-0022",
+    "expected_action": "APPROVE",
+    "scenario": "exact_match",
+    "expected_discrepancies": [],
+    "source_po": "PO-0022",
+    "invoice_number": "INV-EVAL-0022"
+  },
+  "eval_023.pdf": {
+    "expected_po": "PO-0023",
+    "expected_action": "APPROVE",
+    "scenario": "vendor_variation",
+    "expected_discrepancies": [],
+    "source_po": "PO-0023",
+    "invoice_number": "INV-EVAL-0023"
+  },
+  "eval_024.pdf": {
+    "expected_po": "PO-0024",
+    "expected_action": "APPROVE",
+    "scenario": "vendor_variation",
+    "expected_discrepancies": [],
+    "source_po": "PO-0024",
+    "invoice_number": "INV-EVAL-0024"
+  },
+  "eval_025.pdf": {
+    "expected_po": "PO-0025",
+    "expected_action": "REVIEW",
+    "scenario": "missing_line_item",
+    "expected_discrepancies": [
+      "missing_line_item"
+    ],
+    "source_po": "PO-0025",
+    "invoice_number": "INV-EVAL-0025"
+  },
+  "eval_026.pdf": {
+    "expected_po": "PO-0026",
+    "expected_action": "REVIEW",
+    "scenario": "quantity_mismatch",
+    "expected_discrepancies": [
+      "quantity_mismatch"
+    ],
+    "source_po": "PO-0026",
+    "invoice_number": "INV-EVAL-0026"
+  },
+  "eval_027.pdf": {
+    "expected_po": null,
+    "expected_action": "REVIEW",
+    "scenario": "missing_po",
+    "expected_discrepancies": [
+      "missing_po_reference"
+    ],
+    "source_po": "PO-0027",
+    "invoice_number": "INV-EVAL-0027"
+  },
+  "eval_028.pdf": {
+    "expected_po": "PO-0028",
+    "expected_action": "APPROVE",
+    "scenario": "exact_match",
+    "expected_discrepancies": [],
+    "source_po": "PO-0028",
+    "invoice_number": "INV-EVAL-0028"
+  },
+  "eval_029.pdf": {
+    "expected_po": "PO-0029",
+    "expected_action": "APPROVE",
+    "scenario": "exact_match",
+    "expected_discrepancies": [],
+    "source_po": "PO-0029",
+    "invoice_number": "INV-EVAL-0029"
+  },
+  "eval_030.pdf": {
+    "expected_po": "PO-0030",
+    "expected_action": "REVIEW",
+    "scenario": "missing_line_item",
+    "expected_discrepancies": [
+      "missing_line_item"
+    ],
+    "source_po": "PO-0030",
+    "invoice_number": "INV-EVAL-0030"
+  },
+  "eval_031.pdf": {
+    "expected_po": "PO-0031",
+    "expected_action": "REVIEW",
+    "scenario": "quantity_mismatch",
+    "expected_discrepancies": [
+      "quantity_mismatch"
+    ],
+    "source_po": "PO-0031",
+    "invoice_number": "INV-EVAL-0031"
+  },
+  "eval_032.pdf": {
+    "expected_po": "PO-0032",
+    "expected_action": "REVIEW",
+    "scenario": "quantity_mismatch",
+    "expected_discrepancies": [
+      "quantity_mismatch"
+    ],
+    "source_po": "PO-0032",
+    "invoice_number": "INV-EVAL-0032"
+  },
+  "eval_033.pdf": {
+    "expected_po": "PO-0033",
+    "expected_action": "APPROVE",
+    "scenario": "vendor_variation",
+    "expected_discrepancies": [],
+    "source_po": "PO-0033",
+    "invoice_number": "INV-EVAL-0033"
+  },
+  "eval_034.pdf": {
+    "expected_po": "PO-0034",
+    "expected_action": "APPROVE",
+    "scenario": "exact_match",
+    "expected_discrepancies": [],
+    "source_po": "PO-0034",
+    "invoice_number": "INV-EVAL-0034"
+  },
+  "eval_035.pdf": {
+    "expected_po": "PO-0035",
+    "expected_action": "REVIEW",
+    "scenario": "missing_line_item",
+    "expected_discrepancies": [
+      "missing_line_item"
+    ],
+    "source_po": "PO-0035",
+    "invoice_number": "INV-EVAL-0035"
+  },
+  "eval_036.pdf": {
+    "expected_po": "PO-0036",
+    "expected_action": "REVIEW",
+    "scenario": "missing_line_item",
+    "expected_discrepancies": [
+      "missing_line_item"
+    ],
+    "source_po": "PO-0036",
+    "invoice_number": "INV-EVAL-0036"
+  },
+  "eval_037.pdf": {
+    "expected_po": "PO-0037",
+    "expected_action": "REVIEW",
+    "scenario": "extra_line_item",
+    "expected_discrepancies": [
+      "extra_line_item"
+    ],
+    "source_po": "PO-0037",
+    "invoice_number": "INV-EVAL-0037"
+  },
+  "eval_038.pdf": {
+    "expected_po": "PO-0038",
+    "expected_action": "ESCALATE",
+    "scenario": "multiple_discrepancy",
+    "expected_discrepancies": [
+      "price_mismatch",
+      "quantity_mismatch"
+    ],
+    "source_po": "PO-0038",
+    "invoice_number": "INV-EVAL-0038"
+  },
+  "eval_039.pdf": {
+    "expected_po": "PO-0039",
+    "expected_action": "APPROVE",
+    "scenario": "exact_match",
+    "expected_discrepancies": [],
+    "source_po": "PO-0039",
+    "invoice_number": "INV-EVAL-0039"
+  },
+  "eval_040.pdf": {
+    "expected_po": "PO-0040",
+    "expected_action": "APPROVE",
+    "scenario": "exact_match",
+    "expected_discrepancies": [],
+    "source_po": "PO-0040",
+    "invoice_number": "INV-EVAL-0040"
+  },
+  "eval_041.pdf": {
+    "expected_po": "PO-0041",
+    "expected_action": "REVIEW",
+    "scenario": "price_mismatch",
+    "expected_discrepancies": [
+      "price_mismatch"
+    ],
+    "source_po": "PO-0041",
+    "invoice_number": "INV-EVAL-0041"
+  },
+  "eval_042.pdf": {
+    "expected_po": null,
+    "expected_action": "REVIEW",
+    "scenario": "missing_po",
+    "expected_discrepancies": [
+      "missing_po_reference"
+    ],
+    "source_po": "PO-0042",
+    "invoice_number": "INV-EVAL-0042"
+  },
+  "eval_043.pdf": {
+    "expected_po": "PO-0043",
+    "expected_action": "ESCALATE",
+    "scenario": "multiple_discrepancy",
+    "expected_discrepancies": [
+      "price_mismatch",
+      "quantity_mismatch"
+    ],
+    "source_po": "PO-0043",
+    "invoice_number": "INV-EVAL-0043"
+  },
+  "eval_044.pdf": {
+    "expected_po": "PO-0044",
+    "expected_action": "REVIEW",
+    "scenario": "price_mismatch",
+    "expected_discrepancies": [
+      "price_mismatch"
+    ],
+    "source_po": "PO-0044",
+    "invoice_number": "INV-EVAL-0044"
+  },
+  "eval_045.pdf": {
+    "expected_po": "PO-0045",
+    "expected_action": "APPROVE",
+    "scenario": "exact_match",
+    "expected_discrepancies": [],
+    "source_po": "PO-0045",
+    "invoice_number": "INV-EVAL-0045"
+  },
+  "eval_046.pdf": {
+    "expected_po": "PO-0046",
+    "expected_action": "REVIEW",
+    "scenario": "extra_line_item",
+    "expected_discrepancies": [
+      "extra_line_item"
+    ],
+    "source_po": "PO-0046",
+    "invoice_number": "INV-EVAL-0046"
+  },
+  "eval_047.pdf": {
+    "expected_po": "PO-0047",
+    "expected_action": "REVIEW",
+    "scenario": "extra_line_item",
+    "expected_discrepancies": [
+      "extra_line_item"
+    ],
+    "source_po": "PO-0047",
+    "invoice_number": "INV-EVAL-0047"
+  },
+  "eval_048.pdf": {
+    "expected_po": "PO-0048",
+    "expected_action": "REVIEW",
+    "scenario": "extra_line_item",
+    "expected_discrepancies": [
+      "extra_line_item"
+    ],
+    "source_po": "PO-0048",
+    "invoice_number": "INV-EVAL-0048"
+  },
+  "eval_049.pdf": {
+    "expected_po": "PO-0049",
+    "expected_action": "REVIEW",
+    "scenario": "extra_line_item",
+    "expected_discrepancies": [
+      "extra_line_item"
+    ],
+    "source_po": "PO-0049",
+    "invoice_number": "INV-EVAL-0049"
+  },
+  "eval_050.pdf": {
+    "expected_po": "PO-0050",
+    "expected_action": "REVIEW",
+    "scenario": "quantity_mismatch",
+    "expected_discrepancies": [
+      "quantity_mismatch"
+    ],
+    "source_po": "PO-0050",
+    "invoice_number": "INV-EVAL-0050"
+  },
+  "eval_051.pdf": {
+    "expected_po": "PO-0051",
+    "expected_action": "APPROVE",
+    "scenario": "vendor_variation",
+    "expected_discrepancies": [],
+    "source_po": "PO-0051",
+    "invoice_number": "INV-EVAL-0051"
+  },
+  "eval_052.pdf": {
+    "expected_po": "PO-0052",
+    "expected_action": "APPROVE",
+    "scenario": "exact_match",
+    "expected_discrepancies": [],
+    "source_po": "PO-0052",
+    "invoice_number": "INV-EVAL-0052"
+  },
+  "eval_053.pdf": {
+    "expected_po": "PO-0053",
+    "expected_action": "APPROVE",
+    "scenario": "exact_match",
+    "expected_discrepancies": [],
+    "source_po": "PO-0053",
+    "invoice_number": "INV-EVAL-0053"
+  },
+  "eval_054.pdf": {
+    "expected_po": "PO-0054",
+    "expected_action": "REVIEW",
+    "scenario": "extra_line_item",
+    "expected_discrepancies": [
+      "extra_line_item"
+    ],
+    "source_po": "PO-0054",
+    "invoice_number": "INV-EVAL-0054"
+  },
+  "eval_055.pdf": {
+    "expected_po": "PO-0055",
+    "expected_action": "APPROVE",
+    "scenario": "vendor_variation",
+    "expected_discrepancies": [],
+    "source_po": "PO-0055",
+    "invoice_number": "INV-EVAL-0055"
+  },
+  "eval_056.pdf": {
+    "expected_po": "PO-0056",
+    "expected_action": "REVIEW",
+    "scenario": "price_mismatch",
+    "expected_discrepancies": [
+      "price_mismatch"
+    ],
+    "source_po": "PO-0056",
+    "invoice_number": "INV-EVAL-0056"
+  },
+  "eval_057.pdf": {
+    "expected_po": "PO-0057",
+    "expected_action": "ESCALATE",
+    "scenario": "multiple_discrepancy",
+    "expected_discrepancies": [
+      "price_mismatch",
+      "quantity_mismatch"
+    ],
+    "source_po": "PO-0057",
+    "invoice_number": "INV-EVAL-0057"
+  },
+  "eval_058.pdf": {
+    "expected_po": "PO-0058",
+    "expected_action": "APPROVE",
+    "scenario": "exact_match",
+    "expected_discrepancies": [],
+    "source_po": "PO-0058",
+    "invoice_number": "INV-EVAL-0058"
+  },
+  "eval_059.pdf": {
+    "expected_po": "PO-0059",
+    "expected_action": "REVIEW",
+    "scenario": "quantity_mismatch",
+    "expected_discrepancies": [
+      "quantity_mismatch"
+    ],
+    "source_po": "PO-0059",
+    "invoice_number": "INV-EVAL-0059"
+  },
+  "eval_060.pdf": {
+    "expected_po": "PO-0060",
+    "expected_action": "REVIEW",
+    "scenario": "missing_line_item",
+    "expected_discrepancies": [
+      "missing_line_item"
+    ],
+    "source_po": "PO-0060",
+    "invoice_number": "INV-EVAL-0060"
+  },
+  "eval_061.pdf": {
+    "expected_po": null,
+    "expected_action": "REVIEW",
+    "scenario": "missing_po",
+    "expected_discrepancies": [
+      "missing_po_reference"
+    ],
+    "source_po": "PO-0061",
+    "invoice_number": "INV-EVAL-0061"
+  },
+  "eval_062.pdf": {
+    "expected_po": "PO-0062",
+    "expected_action": "APPROVE",
+    "scenario": "difficult_document",
+    "expected_discrepancies": [],
+    "source_po": "PO-0062",
+    "invoice_number": "INV-EVAL-0062"
+  },
+  "eval_063.pdf": {
+    "expected_po": "PO-0063",
+    "expected_action": "REVIEW",
+    "scenario": "missing_line_item",
+    "expected_discrepancies": [
+      "missing_line_item"
+    ],
+    "source_po": "PO-0063",
+    "invoice_number": "INV-EVAL-0063"
+  },
+  "eval_064.pdf": {
+    "expected_po": null,
+    "expected_action": "REVIEW",
+    "scenario": "missing_po",
+    "expected_discrepancies": [
+      "missing_po_reference"
+    ],
+    "source_po": "PO-0064",
+    "invoice_number": "INV-EVAL-0064"
+  },
+  "eval_065.pdf": {
+    "expected_po": "PO-0065",
+    "expected_action": "APPROVE",
+    "scenario": "difficult_document",
+    "expected_discrepancies": [],
+    "source_po": "PO-0065",
+    "invoice_number": "INV-EVAL-0065"
+  },
+  "eval_066.pdf": {
+    "expected_po": "PO-0066",
+    "expected_action": "REVIEW",
+    "scenario": "extra_line_item",
+    "expected_discrepancies": [
+      "extra_line_item"
+    ],
+    "source_po": "PO-0066",
+    "invoice_number": "INV-EVAL-0066"
+  },
+  "eval_067.pdf": {
+    "expected_po": "PO-0067",
+    "expected_action": "APPROVE",
+    "scenario": "difficult_document",
+    "expected_discrepancies": [],
+    "source_po": "PO-0067",
+    "invoice_number": "INV-EVAL-0067"
+  },
+  "eval_068.pdf": {
+    "expected_po": "PO-0068",
+    "expected_action": "APPROVE",
+    "scenario": "vendor_variation",
+    "expected_discrepancies": [],
+    "source_po": "PO-0068",
+    "invoice_number": "INV-EVAL-0068"
+  },
+  "eval_069.pdf": {
+    "expected_po": "PO-0069",
+    "expected_action": "APPROVE",
+    "scenario": "difficult_document",
+    "expected_discrepancies": [],
+    "source_po": "PO-0069",
+    "invoice_number": "INV-EVAL-0069"
+  },
+  "eval_070.pdf": {
+    "expected_po": "PO-0070",
+    "expected_action": "REVIEW",
+    "scenario": "quantity_mismatch",
+    "expected_discrepancies": [
+      "quantity_mismatch"
+    ],
+    "source_po": "PO-0070",
+    "invoice_number": "INV-EVAL-0070"
+  },
+  "eval_071.pdf": {
+    "expected_po": "PO-0071",
+    "expected_action": "APPROVE",
+    "scenario": "difficult_document",
+    "expected_discrepancies": [],
+    "source_po": "PO-0071",
+    "invoice_number": "INV-EVAL-0071"
+  },
+  "eval_072.pdf": {
+    "expected_po": "PO-0072",
+    "expected_action": "APPROVE",
+    "scenario": "vendor_variation",
+    "expected_discrepancies": [],
+    "source_po": "PO-0072",
+    "invoice_number": "INV-EVAL-0072"
+  },
+  "eval_073.pdf": {
+    "expected_po": null,
+    "expected_action": "REVIEW",
+    "scenario": "missing_po",
+    "expected_discrepancies": [
+      "missing_po_reference"
+    ],
+    "source_po": "PO-0073",
+    "invoice_number": "INV-EVAL-0073"
+  },
+  "eval_074.pdf": {
+    "expected_po": "PO-0074",
+    "expected_action": "REVIEW",
+    "scenario": "quantity_mismatch",
+    "expected_discrepancies": [
+      "quantity_mismatch"
+    ],
+    "source_po": "PO-0074",
+    "invoice_number": "INV-EVAL-0074"
+  },
+  "eval_075.pdf": {
+    "expected_po": "PO-0075",
+    "expected_action": "APPROVE",
+    "scenario": "difficult_document",
+    "expected_discrepancies": [],
+    "source_po": "PO-0075",
+    "invoice_number": "INV-EVAL-0075"
+  },
+  "eval_076.pdf": {
+    "expected_po": "PO-0076",
+    "expected_action": "REVIEW",
+    "scenario": "missing_line_item",
+    "expected_discrepancies": [
+      "missing_line_item"
+    ],
+    "source_po": "PO-0076",
+    "invoice_number": "INV-EVAL-0076"
+  },
+  "eval_077.pdf": {
+    "expected_po": "PO-0077",
+    "expected_action": "REVIEW",
+    "scenario": "extra_line_item",
+    "expected_discrepancies": [
+      "extra_line_item"
+    ],
+    "source_po": "PO-0077",
+    "invoice_number": "INV-EVAL-0077"
+  },
+  "eval_078.pdf": {
+    "expected_po": "PO-0078",
+    "expected_action": "ESCALATE",
+    "scenario": "multiple_discrepancy",
+    "expected_discrepancies": [
+      "price_mismatch",
+      "quantity_mismatch"
+    ],
+    "source_po": "PO-0078",
+    "invoice_number": "INV-EVAL-0078"
+  },
+  "eval_079.pdf": {
+    "expected_po": null,
+    "expected_action": "REVIEW",
+    "scenario": "missing_po",
+    "expected_discrepancies": [
+      "missing_po_reference"
+    ],
+    "source_po": "PO-0079",
+    "invoice_number": "INV-EVAL-0079"
+  },
+  "eval_080.pdf": {
+    "expected_po": "PO-0080",
+    "expected_action": "REVIEW",
+    "scenario": "price_mismatch",
+    "expected_discrepancies": [
+      "price_mismatch"
+    ],
+    "source_po": "PO-0080",
+    "invoice_number": "INV-EVAL-0080"
+  },
+  "eval_081.pdf": {
+    "expected_po": null,
+    "expected_action": "REVIEW",
+    "scenario": "missing_po",
+    "expected_discrepancies": [
+      "missing_po_reference"
+    ],
+    "source_po": "PO-0081",
+    "invoice_number": "INV-EVAL-0081"
+  },
+  "eval_082.pdf": {
+    "expected_po": "PO-0082",
+    "expected_action": "APPROVE",
+    "scenario": "exact_match",
+    "expected_discrepancies": [],
+    "source_po": "PO-0082",
+    "invoice_number": "INV-EVAL-0082"
+  },
+  "eval_083.pdf": {
+    "expected_po": "PO-0083",
+    "expected_action": "APPROVE",
+    "scenario": "exact_match",
+    "expected_discrepancies": [],
+    "source_po": "PO-0083",
+    "invoice_number": "INV-EVAL-0083"
+  },
+  "eval_084.pdf": {
+    "expected_po": "PO-0084",
+    "expected_action": "APPROVE",
+    "scenario": "difficult_document",
+    "expected_discrepancies": [],
+    "source_po": "PO-0084",
+    "invoice_number": "INV-EVAL-0084"
+  },
+  "eval_085.pdf": {
+    "expected_po": "PO-0085",
+    "expected_action": "REVIEW",
+    "scenario": "quantity_mismatch",
+    "expected_discrepancies": [
+      "quantity_mismatch"
+    ],
+    "source_po": "PO-0085",
+    "invoice_number": "INV-EVAL-0085"
+  },
+  "eval_086.pdf": {
+    "expected_po": "PO-0086",
+    "expected_action": "APPROVE",
+    "scenario": "difficult_document",
+    "expected_discrepancies": [],
+    "source_po": "PO-0086",
+    "invoice_number": "INV-EVAL-0086"
+  },
+  "eval_087.pdf": {
+    "expected_po": "PO-0087",
+    "expected_action": "APPROVE",
+    "scenario": "exact_match",
+    "expected_discrepancies": [],
+    "source_po": "PO-0087",
+    "invoice_number": "INV-EVAL-0087"
+  },
+  "eval_088.pdf": {
+    "expected_po": "PO-0088",
+    "expected_action": "REVIEW",
+    "scenario": "missing_line_item",
+    "expected_discrepancies": [
+      "missing_line_item"
+    ],
+    "source_po": "PO-0088",
+    "invoice_number": "INV-EVAL-0088"
+  },
+  "eval_089.pdf": {
+    "expected_po": "PO-0089",
+    "expected_action": "APPROVE",
+    "scenario": "difficult_document",
+    "expected_discrepancies": [],
+    "source_po": "PO-0089",
+    "invoice_number": "INV-EVAL-0089"
+  },
+  "eval_090.pdf": {
+    "expected_po": "PO-0090",
+    "expected_action": "REVIEW",
+    "scenario": "price_mismatch",
+    "expected_discrepancies": [
+      "price_mismatch"
+    ],
+    "source_po": "PO-0090",
+    "invoice_number": "INV-EVAL-0090"
+  },
+  "eval_091.pdf": {
+    "expected_po": "PO-0091",
+    "expected_action": "ESCALATE",
+    "scenario": "multiple_discrepancy",
+    "expected_discrepancies": [
+      "price_mismatch",
+      "quantity_mismatch"
+    ],
+    "source_po": "PO-0091",
+    "invoice_number": "INV-EVAL-0091"
+  },
+  "eval_092.pdf": {
+    "expected_po": "PO-0092",
+    "expected_action": "APPROVE",
+    "scenario": "exact_match",
+    "expected_discrepancies": [],
+    "source_po": "PO-0092",
+    "invoice_number": "INV-EVAL-0092"
+  },
+  "eval_093.pdf": {
+    "expected_po": "PO-0093",
+    "expected_action": "APPROVE",
+    "scenario": "exact_match",
+    "expected_discrepancies": [],
+    "source_po": "PO-0093",
+    "invoice_number": "INV-EVAL-0093"
+  },
+  "eval_094.pdf": {
+    "expected_po": "PO-0094",
+    "expected_action": "REVIEW",
+    "scenario": "missing_line_item",
+    "expected_discrepancies": [
+      "missing_line_item"
+    ],
+    "source_po": "PO-0094",
+    "invoice_number": "INV-EVAL-0094"
+  },
+  "eval_095.pdf": {
+    "expected_po": "PO-0095",
+    "expected_action": "APPROVE",
+    "scenario": "exact_match",
+    "expected_discrepancies": [],
+    "source_po": "PO-0095",
+    "invoice_number": "INV-EVAL-0095"
+  },
+  "eval_096.pdf": {
+    "expected_po": "PO-0096",
+    "expected_action": "APPROVE",
+    "scenario": "difficult_document",
+    "expected_discrepancies": [],
+    "source_po": "PO-0096",
+    "invoice_number": "INV-EVAL-0096"
+  },
+  "eval_097.pdf": {
+    "expected_po": null,
+    "expected_action": "REVIEW",
+    "scenario": "missing_po",
+    "expected_discrepancies": [
+      "missing_po_reference"
+    ],
+    "source_po": "PO-0097",
+    "invoice_number": "INV-EVAL-0097"
+  },
+  "eval_098.pdf": {
+    "expected_po": "PO-0098",
+    "expected_action": "REVIEW",
+    "scenario": "price_mismatch",
+    "expected_discrepancies": [
+      "price_mismatch"
+    ],
+    "source_po": "PO-0098",
+    "invoice_number": "INV-EVAL-0098"
+  },
+  "eval_099.pdf": {
+    "expected_po": "PO-0099",
+    "expected_action": "ESCALATE",
+    "scenario": "multiple_discrepancy",
+    "expected_discrepancies": [
+      "price_mismatch",
+      "quantity_mismatch"
+    ],
+    "source_po": "PO-0099",
+    "invoice_number": "INV-EVAL-0099"
+  },
+  "eval_100.pdf": {
+    "expected_po": null,
+    "expected_action": "REVIEW",
+    "scenario": "missing_po",
+    "expected_discrepancies": [
+      "missing_po_reference"
+    ],
+    "source_po": "PO-0100",
+    "invoice_number": "INV-EVAL-0100"
+  },
+  "eval_101.pdf": {
+    "expected_po": "PO-0101",
+    "expected_action": "APPROVE",
+    "scenario": "vendor_variation",
+    "expected_discrepancies": [],
+    "source_po": "PO-0101",
+    "invoice_number": "INV-EVAL-0101"
+  },
+  "eval_102.pdf": {
+    "expected_po": "PO-0102",
+    "expected_action": "ESCALATE",
+    "scenario": "multiple_discrepancy",
+    "expected_discrepancies": [
+      "price_mismatch",
+      "quantity_mismatch"
+    ],
+    "source_po": "PO-0102",
+    "invoice_number": "INV-EVAL-0102"
+  },
+  "eval_103.pdf": {
+    "expected_po": "PO-0103",
+    "expected_action": "REVIEW",
+    "scenario": "quantity_mismatch",
+    "expected_discrepancies": [
+      "quantity_mismatch"
+    ],
+    "source_po": "PO-0103",
+    "invoice_number": "INV-EVAL-0103"
+  },
+  "eval_104.pdf": {
+    "expected_po": "PO-0104",
+    "expected_action": "REVIEW",
+    "scenario": "missing_line_item",
+    "expected_discrepancies": [
+      "missing_line_item"
+    ],
+    "source_po": "PO-0104",
+    "invoice_number": "INV-EVAL-0104"
+  },
+  "eval_105.pdf": {
+    "expected_po": "PO-0105",
+    "expected_action": "REVIEW",
+    "scenario": "price_mismatch",
+    "expected_discrepancies": [
+      "price_mismatch"
+    ],
+    "source_po": "PO-0105",
+    "invoice_number": "INV-EVAL-0105"
+  },
+  "eval_106.pdf": {
+    "expected_po": "PO-0106",
+    "expected_action": "ESCALATE",
+    "scenario": "multiple_discrepancy",
+    "expected_discrepancies": [
+      "price_mismatch",
+      "quantity_mismatch"
+    ],
+    "source_po": "PO-0106",
+    "invoice_number": "INV-EVAL-0106"
+  },
+  "eval_107.pdf": {
+    "expected_po": "PO-0107",
+    "expected_action": "ESCALATE",
+    "scenario": "multiple_discrepancy",
+    "expected_discrepancies": [
+      "price_mismatch",
+      "quantity_mismatch"
+    ],
+    "source_po": "PO-0107",
+    "invoice_number": "INV-EVAL-0107"
+  },
+  "eval_108.pdf": {
+    "expected_po": "PO-0108",
+    "expected_action": "APPROVE",
+    "scenario": "exact_match",
+    "expected_discrepancies": [],
+    "source_po": "PO-0108",
+    "invoice_number": "INV-EVAL-0108"
+  },
+  "eval_109.pdf": {
+    "expected_po": "PO-0109",
+    "expected_action": "APPROVE",
+    "scenario": "exact_match",
+    "expected_discrepancies": [],
+    "source_po": "PO-0109",
+    "invoice_number": "INV-EVAL-0109"
+  },
+  "eval_110.pdf": {
+    "expected_po": "PO-0110",
+    "expected_action": "APPROVE",
+    "scenario": "vendor_variation",
+    "expected_discrepancies": [],
+    "source_po": "PO-0110",
+    "invoice_number": "INV-EVAL-0110"
+  },
+  "eval_111.pdf": {
+    "expected_po": "PO-0111",
+    "expected_action": "ESCALATE",
+    "scenario": "multiple_discrepancy",
+    "expected_discrepancies": [
+      "price_mismatch",
+      "quantity_mismatch"
+    ],
+    "source_po": "PO-0111",
+    "invoice_number": "INV-EVAL-0111"
+  },
+  "eval_112.pdf": {
+    "expected_po": "PO-0112",
+    "expected_action": "APPROVE",
+    "scenario": "difficult_document",
+    "expected_discrepancies": [],
+    "source_po": "PO-0112",
+    "invoice_number": "INV-EVAL-0112"
+  },
+  "eval_113.pdf": {
+    "expected_po": "PO-0113",
+    "expected_action": "APPROVE",
+    "scenario": "difficult_document",
+    "expected_discrepancies": [],
+    "source_po": "PO-0113",
+    "invoice_number": "INV-EVAL-0113"
+  },
+  "eval_114.pdf": {
+    "expected_po": "PO-0114",
+    "expected_action": "REVIEW",
+    "scenario": "price_mismatch",
+    "expected_discrepancies": [
+      "price_mismatch"
+    ],
+    "source_po": "PO-0114",
+    "invoice_number": "INV-EVAL-0114"
+  },
+  "eval_115.pdf": {
+    "expected_po": "PO-0115",
+    "expected_action": "APPROVE",
+    "scenario": "vendor_variation",
+    "expected_discrepancies": [],
+    "source_po": "PO-0115",
+    "invoice_number": "INV-EVAL-0115"
+  },
+  "eval_116.pdf": {
+    "expected_po": "PO-0116",
+    "expected_action": "APPROVE",
+    "scenario": "difficult_document",
+    "expected_discrepancies": [],
+    "source_po": "PO-0116",
+    "invoice_number": "INV-EVAL-0116"
+  },
+  "eval_117.pdf": {
+    "expected_po": "PO-0117",
+    "expected_action": "REVIEW",
+    "scenario": "price_mismatch",
+    "expected_discrepancies": [
+      "price_mismatch"
+    ],
+    "source_po": "PO-0117",
+    "invoice_number": "INV-EVAL-0117"
+  },
+  "eval_118.pdf": {
+    "expected_po": "PO-0118",
+    "expected_action": "REVIEW",
+    "scenario": "quantity_mismatch",
+    "expected_discrepancies": [
+      "quantity_mismatch"
+    ],
+    "source_po": "PO-0118",
+    "invoice_number": "INV-EVAL-0118"
+  },
+  "eval_119.pdf": {
+    "expected_po": "PO-0119",
+    "expected_action": "REVIEW",
+    "scenario": "price_mismatch",
+    "expected_discrepancies": [
+      "price_mismatch"
+    ],
+    "source_po": "PO-0119",
+    "invoice_number": "INV-EVAL-0119"
+  },
+  "eval_120.pdf": {
+    "expected_po": "PO-0120",
+    "expected_action": "APPROVE",
+    "scenario": "exact_match",
+    "expected_discrepancies": [],
+    "source_po": "PO-0120",
+    "invoice_number": "INV-EVAL-0120"
+  }
+}
