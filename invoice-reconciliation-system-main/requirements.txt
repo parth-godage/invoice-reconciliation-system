@@ -1,7 +1,10 @@
+fastapi
+uvicorn[standard]
+
 langgraph>=0.0.40
 langchain-core>=0.1.0
+
 pdfplumber>=0.10.0
 pdf2image>=1.16.0
 Pillow>=10.0.0
 pytesseract>=0.3.10
-uvicorn[standard]
